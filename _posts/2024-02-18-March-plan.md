@@ -2,17 +2,17 @@
 layout: post
 title: 2024 March plan
 description: 三月份的整体计划，按照周划分
-category: plan
-tags: [book]
+category: Plan
+tags: [book,study English, exercise, algorithm]
 ---
 
 ## Totol
 
 1. 在“不背单词上”学习够450个单词【0/450】
 2. 累计阅读时长达到40小时。【3/40】
-3. 读完《这就是ChatGPT》、《Python机器学习手册》《机器学习》《Python 高性能编程（第2版）》。
+3. 读完《这就是ChatGPT》、《Python机器学习手册》《机器学习》。
 4. 做30道算法题。【0/30】
-5.  去15+次健身房锻炼。【2/15】
+5. 去15+次健身房锻炼。【3/15】
 
 ### Week 1
 
@@ -23,6 +23,7 @@ tags: [book]
 
    - [ ] 读完《Math for Programmers》前4章
    - [ ] 读完《机器学习》前4章
+   - [ ] 读书时常达到17小时
 
 ### Week 3
 

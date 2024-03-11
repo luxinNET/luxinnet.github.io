@@ -2,8 +2,8 @@
 layout: post
 title: 2024 February plan
 description: 二月份的整体计划，按照周划分
-category: plan
-tags: [book]
+category: Plan
+tags: [book, exercise, algorithm]
 ---
 
 ## Totol
