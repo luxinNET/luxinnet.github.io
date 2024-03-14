@@ -12,7 +12,7 @@ tags: [book,study English, exercise, algorithm]
 2. 累计阅读时长达到40小时。【6/40】
 3. 读完《这就是ChatGPT》、《Python机器学习手册》《机器学习》。
 4. 做30道算法题。【0/30】
-5. 去15+次健身房锻炼。【5/15】
+5. 去15+次健身房锻炼。【6/15】
 
 ### Week 1
 
@@ -27,6 +27,8 @@ tags: [book,study English, exercise, algorithm]
 
 ### Week 3
 
+   - [ ] 读完《Math for Programmers》前8章
+   - [ ] 读完《机器学习》前8章
    - [ ] 读书时常达到25小时
 
 ### Week 4
