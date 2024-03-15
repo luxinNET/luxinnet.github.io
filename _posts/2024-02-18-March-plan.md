@@ -8,8 +8,8 @@ tags: [book,study English, exercise, algorithm]
 
 ## Totol
 
-1. 在“不背单词上”学习够450个单词【0/450】
-2. 累计阅读时长达到40小时。【6/40】
+1. 在“不背单词上”学习够450个单词【30/450】
+2. 累计阅读时长达到40小时。【8/40】
 3. 读完《这就是ChatGPT》、《Python机器学习手册》《机器学习》。
 4. 做30道算法题。【0/30】
 5. 去15+次健身房锻炼。【6/15】
@@ -30,6 +30,7 @@ tags: [book,study English, exercise, algorithm]
    - [ ] 读完《Math for Programmers》前8章
    - [ ] 读完《机器学习》前8章
    - [ ] 读书时常达到25小时
+   - [ ] 背150个单词，平均每天约50
 
 ### Week 4
 
