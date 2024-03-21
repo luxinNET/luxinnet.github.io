@@ -1,7 +1,7 @@
 from transforms import *
 from math import pi
 
-with open("teapot.off") as f:
+with open("C:\\project\\git\\luxinnet.github.io\\code\\MathForProgrammers\\Chapter_04\\teapot.off") as f:
     lines = f.readlines()
 
 vertex_count, face_count, edge_count = map(int,lines[1].split())
