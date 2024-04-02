@@ -661,5 +661,143 @@ class Vec2():
 加法函数add接收第二个向量作为参数，并返回一个新的Vec2对象，其坐标分别是两个向量的X表座和y坐标之和。
 
 ~~~python
+def add(self, v2):
+    return Vec2(self.x + v2.x, self.y + v2.y)
 
+v = Vec2(3,4)
+w = v.add(Vec2(-2,6))
+print(w.x) # -2 + 3 = 1
 ~~~
+
+也可以用类似的方式实现标量乘法，将一个标量作为输入，然后返回一个缩放过的向量作为输出。
+
+~~~python
+def scale(self, scalar):
+    """标量乘法"""
+    return Vec2(self.x * scalar, self.y * scalar)
+~~~
+
+默认情况下，Python会通过引用的方式来对比类的实例(检测它们是否引用内存中的同一地址)，而不是比较他们的值。可以通过重写对应的方法解决这个问题，让Python对Vec2类的对象以不同的方式处理==运算符。
+
+~~~python
+def __eq__(self,other):
+    return self.x == other.x and self.y == other.y
+~~~
+
+升级Vec2类
+
+改变了==运算符的行为，被称为**运算符重载**，也可以自定义Python运算符+和*。
+
+~~~python
+def __add__(self,other):
+    return self.add(other)
+
+def __mul__(self,other):
+    return self.scale(other)
+~~~
+
+可以写出一个简练的线性组合：3.0 * Vec2(1,0) + 4.0 * Vec2(0,1)。可以通过重写__repr__方法来改变Vec2对象的字符串表示。
+
+~~~python
+def __repr__(self):
+    return "Vec2({self.x},{self.y})".format(self.x, self.y)
+~~~
+
+使用同样的方法定义三维向量
+
+虽然Vec3看起来像像Vec2，但所需数据是三个坐标而不是两个。
+
+~~~python
+class Vec3():
+    def __init__(self,x,y,z):
+        self.x = x
+        self.y = y
+        self.z = z
+
+    def add(self, v3):
+        """向量加法"""
+        return Vec2(self.x + v3.x, self.y + v3.y, self.z + v3.z)
+    
+    def scale(self, scalar):
+        """标量乘法"""
+        return Vec2(self.x * scalar, self.y * scalar, self.z * scalar)
+    
+    def __eq__(self,other):
+        """向量相等"""
+        return self.x == other.x and self.y == other.y and self.z == other.z
+    
+    def __add__(self,other):
+        return self.add(other)
+
+    def __mul__(self,other):
+        return self.scale(other)
+    
+    def __repr__(self):
+        return "Vec2({self.x},{self.y},{self.z})".format(self.x, self.y, self.z)
+~~~
+
+可以写一个通用的average函数，它能用于任意类型的向量
+
+~~~python
+def average(v1, v2):
+    return 0.5 * v1 + 0.5 * v2
+~~~
+
+传入二维或三维向量都能返回正确且有意义的结果。这就是泛化带来的优雅性和效率提升。对输入的唯一约束是：需要支持向量加法和标量乘法。Vec2对象、Vec3对象、图像或其他类型数据之间的计算方式各不相同，但其中会有重叠部分，即使用**什么**运算。当我们把**什么**和**如何**分开思考时，就带了代码复用和数学抽象的大门。
+
+构建向量基类
+
+只有向量加法和标量乘法是向量独有的操作，所以能直接放在Vector基类中，其余操作则还是放在子类中实现。
+
+~~~python
+from abc import ABCMeta, abstractmethod
+
+class Vector(metchlass=ABCMeta):
+    @abstractmethod
+    def scale(self,scalar):
+        pass
+
+    @abstractmethod
+    def add(self,other):
+        pass
+~~~
+
+abc模块包含工具类、函数和方法装饰器，可以帮助我们实现一个**抽象基类**，即不会被实例化的类。这种类旨在作为继承它的类的模板。
+
+@abstractmethod装饰器意味着方法不是在基类中实现的，而是需要在子类中实现。它约束子类必须要实现的抽象方法。我们可以为这个抽象类添加所有只依赖于向量加法和标量乘法的方法，比如运算符重载
+
+~~~python
+    def __mul__(self,other):
+        return self.scale(other)
+
+    def __rmul__(self,other):
+        return self.scale(other)
+
+    def __add__(self,other):
+        return self.add(other)
+~~~
+
+可以将Vec2和Vec3简化为继承自Vector的子类。Vector基类很好地展示了我们可以用向量做什么。如果能在其中添加任何有用的方法，那么这些方法就可以会对**所有**类型的向量起作用。
+
+定义向量空间
+
+在数学中，向量的定义基于其具体作用而非针对其本身的描述，与前文定义Vector抽象类差不多。
+
+向量的一个**定义**（不完备的）：向量是一个对象，具备一种与其他向量相加以及与标量相乘的**合适**方式。
+
+向量空间就是向量的集合，其**定义**如下：向量空间是一系列向量对象的集合，每个对象都兼容合适的向量加法和标量乘法运算，因此其中任意向量的线性组合都会产生一个也在集合中的向量。
+
+向量空间的一个例子是所有可能的二维向量的无限集合。事实上，你遇到的大多数向量空间都是无限集合，毕竟可以使用无限多的标量生成无限多的线性组合。
+
+“向量空间需要包含其中所有向量的线性组合”这一规则有两个暗示：
+
+1. 无论你在向量空间里取什么向量v，v * 0都会得到同样的结果。这就是所谓的**零向量**，记为*0*。任何向量与零向量相加都不会发生任何变化。
+2. 每个向量v都有一个相反的向量，即-1 * v，写作-v。
+
+对向量空间类进行单元测试
+
+### 探索不同的向量空间
+
+枚举所有坐标向量空间
+
+Vec1类，即具有单一坐标的向量。这个类不过是单一坐标的包装器，并没有提供其他有价值的运算方法。我们可能永远不会需要一个Vec1类。但重要的是要知道，数本身就是向量。所有实数（包括整数、分数和像派这样的无理数）的集合被表示为R，它本身就是一个向量空间。这种一种特殊情况：标量与向量是同一种对象。
