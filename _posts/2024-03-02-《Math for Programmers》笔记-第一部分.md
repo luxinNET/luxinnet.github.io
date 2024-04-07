@@ -806,3 +806,27 @@ Vec1类，即具有单一坐标的向量。这个类不过是单一坐标的包�
 
 识别现实中的向量
 
+在二手丰田普锐斯的案例中，可以将汽车数据加载到一个类中。
+
+~~~python
+class CarForSale():
+    def __init__(self, model_year, mileage, price, posted_datetime, model, source, location, description) :
+        self.model_year = model_year
+        self.mileage = mileage
+        self.price = price
+        self.posted_datetime = posted_datetime
+        self.model = model
+        self.source = source
+        self.location = location
+        self.description = description
+~~~
+
+可以将CarForSale对象作为向量处理，例如可以将其表示成一个线性组合来求平均值，需要将其继承自Vector。
+
+忽略文本数据，CarForSale表现得更像一个向量——他的行为就像一个四维向量，其维度包括价格、车型、历程和发布的日期时间。他不完全是一个坐标向量，因为发布日期不是一个数字。即使数据不是数字，这个类也满足向量空间的特征，所以它的实例可以被当作向量来处理。
+
+将函数作为向量处理
+
+数学函数可以被当作向量，特别是接收一个实数并返回一个实数的数学函数。
+
+与二维或三维向量一样，我们可以用可视化或代数的方式处理函数的加法和标量乘法。
