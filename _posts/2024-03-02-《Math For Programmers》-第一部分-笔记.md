@@ -829,4 +829,98 @@ class CarForSale():
 
 数学函数可以被当作向量，特别是接收一个实数并返回一个实数的数学函数。
 
-与二维或三维向量一样，我们可以用可视化或代数的方式处理函数的加法和标量乘法。
+与二维或三维向量一样，我们可以用可视化或代数的方式处理函数的加法和标量乘法。首先，可以用代数方式写函数，如f(x) = 0.5x + 3 或g(x) = sin(x)。也可以用图表来可视化这些操作。
+
+确定函数是否满足向量空间规则的单元测试要困难得多，因为生成随机函数或测试两个函数是否相等是很困难的。要想知道两个函数是否相等，必须知道它们对每一个可能的输入都返回相同的输出。函数向量空间的唯独究竟是多少，需要多少个实数坐标才能唯一地识别一个函数？
+
+讲矩阵作为向量处理
+
+因为 n * m矩阵就是一个数量为n * m的数字列表，所以它虽然是矩阵的形式，但可以被看成一个n * m维向量。比如说，5 * 3矩阵的向量空间与15维的向量空间的唯一区别是，坐标值是以矩阵的形式呈现的，我们仍然要对坐标逐一相加或者乘以给定的标量。
+
+~~~python
+# 把5 * 3矩阵当成向量来处理的Python类
+
+class Matrix5_by_3(Vector):
+    rows = 5
+    columns = 3
+    def __init__(self, matrix):
+        self.matrix = matrix
+    
+    def add(self, other):
+        return Matrix5_by_3(tuple(
+            tuple(a + b for a, b in zip(row1, row2))
+            for row1, row2 in zip(self.matrix, other.matrix)
+        ))
+    
+    def scale(self, scalar):
+        return Matrix5_by_3(tuple(
+            tuple(a * scalar for a in row)
+            for row in self.matrix
+        ))
+    
+    @classmethod
+    def zero(cls):
+        return Matrix5_by_3(
+            tuple(
+                tuple(0 for j in range(0, cls.columns))
+                for i in range(0, cls.rows)
+            ))
+~~~
+
+矩阵的有趣之处并不在于它们是排列在网格中的数，而是可以被看成线性代数的“名片”。我们已经知道，数字列表和函数是向量空间的两种情况。事实上，矩阵在两种意义上都是向量。如果矩阵A有n行m列，它就代表了一个从m维空间到n维空间的线性函数（数学描述为A:Rᵐ -> Rⁿ）
+
+使用向量运算来操作图像
+
+在彩色图像中，需要三个数描述像素的红、绿、蓝(RGB)分量。一般来说，一个300像素 * 300像素的图像由 300 * 300 * 3 = 270000个数值来表示。
+
+ImageVector类继承自Vector，存储了300 * 300的图像像素数据，支持加法和标量乘法运算。
+
+~~~python
+# 用向量描述图像的类
+class ImageVector(Vector):
+    size = (300, 300)
+
+    def __init__(self, input):
+        try:
+            img = Image.open(input).resize(ImageVector.size)
+            # 用getdata()方法提取其所有像素。每个像素都是由红绿蓝三色构成的元组
+            self.pixels = img.getdata()
+        except:
+            # 构造函数也可以直接接收像素列表
+            self.pixels = input
+
+    def image(self):
+        # 返回底层的PIL图像，通过类上的size属性指定大小
+        img = Image.new('RGB', ImageVector.size)
+
+        img.putdata([(int(r), int(g), int(b))
+                     for r, g, b in self.pixels])
+        return img
+    def add(self, img2):
+        # 图片向量的加法是对每个像素的红绿蓝值求和实现的
+        return ImageVector(tuple(
+            tuple(int(r1) + int(r2) for r1, r2 in zip(p1, p2))
+            for p1, p2 in zip(self.pixels, img2.pixels)
+        ))
+    
+    def scale(self, scalar):
+        # 将每个像素的红、绿、蓝乘以给定标量
+        return ImageVector(tuple(
+            tuple(int(r * scalar) for r in p)
+            for p in self.pixels
+        ))
+    
+    @classmethod
+    def zero(cls):
+        total_pixels = cls.size[0] * cls.size[1]
+        return ImageVector([(0, 0, 0) for _ in range(0, total_pixels)])
+    
+    def _repr_png_(self):
+        # Jupyter Notebook用来显示图片
+        return self.image()._repr_png_()
+~~~
+
+向量运算是一个通用概念：向量加法和标量乘法的定义概念适用于数、坐标向量、函数、矩阵、图像和许多其他种类的对象。
+
+### 寻找更小的向量空间
+
