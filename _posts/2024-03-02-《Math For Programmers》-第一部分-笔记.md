@@ -959,3 +959,104 @@ class ImageVector(Vector):
 图像的子空间
 
 生成这种图像子空间的一种方法是，从图像左上角开始，对每10 * 10的块进行判断，如果块内所有像素都相同，则认为这个块是相同的。
+
+## 求解线性方程组
+
+本章内容
+
+> 检测二维视频游戏中对象的碰撞
+
+> 用方程来表示直线并找出直线在平面上的点
+
+> 绘制和求解三维或更高难度的线性方程组
+
+> 将向量重写为其他向量的线性组合
+
+相对于代数，求解线性代数要求解的可能是向量或矩阵，而不是数。求解**线性方程组**，可以归结为是寻找直线、平面或更高维度的对象的交点。
+
+### 设计一款接机游戏
+
+游戏建模
+
+使用多边形代表小行星，将代表这个形状的向量与其中心点的X坐标和Y坐标分开存储，因为X坐标和Y坐标可能会随着时间变化。再存储一个角度，表示物体在当前时刻的旋转。
+
+PolygonModel类代表一个可以平移或旋转并保持形状不变的游戏实体（小行星或飞船）。
+
+~~~python
+class PolygonModel():
+    def __init__(self, points):
+        self.points = points
+        self.rotaion_angle = 0
+        self.x = 0
+        self.y = 0
+~~~
+
+宇宙飞船和小行星是PolygonModel的具体例子，它们会根据各自的形状自动初始化。
+
+~~~python
+class Ship(PolygonModel):
+    """宇宙飞船，由3个点给出"""
+    def __init__(self):
+        super().__init__([(0.5, 0),(-0.25, 0.25),(-0.25, -0.25)])
+
+class Asteroid(PolygonModel):
+    """小行星，随即赋予边、长度"""
+    def __init__(self):
+        sides = randint(5, 9) # 小行星边数是5和9之间的一个随机数
+        vs = [vectors.to_cartesian((uniform(0.5, 1.0), 2*pi*i/sides))
+                for i in range(0,sides)] # 长度是0.5和1.0之间的随机数，角度是2Π/n的倍数，n是边数
+        super.__init__(vs)
+~~~
+
+渲染游戏
+
+游戏初始状态，需要一艘飞船与多颗小行星。
+
+~~~python
+ship = Ship()
+asteroid_count = 10
+asteroids = [Asteroid() for _ in range(0, asteroid_count)]
+# 将小行星的位置设置为范围内的随机点
+for ast in asteroids:
+    ast.x = randint(-9, 9)
+    ast.y = randint(-9, 9)
+~~~
+
+还需要编写一个to_pixels函数，将坐标从我们的坐标系映射成PyGame的像素坐标。
+
+发射激光
+
+在二维世界中，激光束应该是一条线段，从经过**变换**的宇宙飞船顶端开始，向飞船指向的方向延申。可以在Ship类上创建一个方法来计算它。
+
+~~~python
+class Ship(PolygonModel):
+    ···
+    def laer_segment(self):
+        # 勾股定理找到屏幕上最长线段
+        dist = 20. * sqrt(2)
+        # 获取线段的第一点（飞船顶端）的值
+        x, y = self.transformed()[0]
+        return ((x,y),(x + dist * cos(self.rotation_angle), y + dist * sin(self.rotaion_angle)))
+~~~
+
+要检查每一颗小行星是否被激光击中，那么，在游戏每一次循环迭代中，都要检查。可以用使用PolygonModel类上的does_intersect(segment)方法来实现这一点，该方法计算输入线段是否给定PolygonModel的任意线段相交。
+
+~~~python
+laser = ship.laser_segment()
+
+keys = pygame.key.get_pressed()
+
+if keys[pygame.K_SPACE]:
+    draw_segment(*laser)
+
+for asteroid in asteroids:
+    if asteroid.does_intersect(laser):
+        asteroids.remove(asteroid)
+~~~
+
+### 找到直线的交点
+
+要判断激光束是否击中了小行星，我们将查看小行星的每个线段，并判断其是否与定义激光束的线段相交。这里把它作为一个**两个变量的线性方程组**来解决。
+
+为直线选择正确的公式
+
