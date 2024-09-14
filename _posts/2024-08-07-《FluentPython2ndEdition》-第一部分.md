@@ -437,3 +437,111 @@ Unicode三明治：输入时解码字节序列；中间层只处理文本；输�
 Python3中，可以轻松采纳Unicode三明治的建议，因为内置函数open（）在读取文件时会做必要的解码，以文本模式写入文件时还会做必要的编码，所以调用my_file.read()方法得到的以及my_file.write()方法传入的都是str对象。
 
 在Python中，I/O默认使用的编码受到几个设置的影响。
+
+总结一下编码：
+
+* 打开文件时如果没有指定encoding参数，则默认编码由locale.getpreferredencoding()函数决定。
+* 在二进制数据与str之间转换时，Python内部使用sys.getfilesystemencoding()函数决定编码。该设置不可更改。
+* 编码和解码文件名使用sys.getfilesystemencoding()函数决定。
+
+locale.getpreferredencoding()函数根据用户偏好设置，返回文本数据的编码。用户偏好设置在不同的系统中以不同的方式设置，而且在某些系统只可能无法通过编程方式设置，因此这个函数返回的只是猜测的编码。
+
+因此，关于默认编码的最佳建议：别依赖默认编码。
+
+### 为了正确比较而规范化Unicode字符串
+
+因为Unicode有组合字符，所以字符串比较起来比较复杂。解决方案是使用unicodedata.normalize()函数。该函数的第一个参数是NFC、NFD、NFKC和NFKD之一，表示要使用的规范。
+
+#### 大小写同一化
+
+就是把所有文本都转为小谢，再做些其他转换。这个操作由str.casefold()函数完成。
+
+#### 规范化文本匹配的实用函数
+
+如果需要处理多语言文本，应该使用nfc_equal和fold_equal函数。
+
+#### 极端“规范化”：去掉变音符
+
+去掉变音符不是正确的规范化方式，因为这往往会改变词的意思，而且可能让人误判搜索结果。
+
+### Unicode文本排序
+
+给任何类型的序列排序，Python都回注意比较序列中的每一项。对字符串来说，比较的是码点。可是，遇到飞ASCII字符，比较就会出错。
+
+在Python，非ASCII文本的标准排序方式是用locale.strxfrm函数。这个函数“把字符串转成适合所在区域进行比较的形式”。
+
+### Unicode数据库
+
+Unicode标准提供了一个完整的数据库（许多结构化文本文件），不仅包括码点名称之间的映射表，还包括各个字符的元数据，以及字符的关系。
+
+unicodedata.category()返回char在Unicode数据库中的类别。
+
+#### 按名称查找字符
+
+unicodedata模块中有几个函数用于获取字符的元数据。例如unicodedata.name()返回一个字符在标准中的官方名称。
+
+#### 字符的数值意义
+
+unicodedata模块中有几个函数可以检查Unicode字符是不是不表示数值，如果是的话还能确定人类可读的具体数值，而不是码点数。unicodedata.name()和unicodedata.numeric()函数，以及str的.isdecimal()和.isnumeric()方法。
+
+### 支持str和bytes的双模式API
+
+Python标准库中的一些函数能接受str或bytes为参数，根据其具体类型的不同展现不同的行为。
+
+## 第五章数据类构建器
+
+Python提供了几中构建简单类的方式，这些类只是字段的容器，几乎没有额外功能。这种模式被称为“数据类”（data class），dataclass包就支持该模式。以下是三个可简化数据类构建过程的构建器。
+
+ 最简单的构建方式，从Python2.6开始提供。
+
+写法：
+from collections import namedtuple
+Coordinate = namedtuple('Coordinate', 'lat lon')
+
+**typing.NamedTuple** 另一种构建方式，需要为字段添加类型提示，从Python3.5开始提供。
+
+写法：
+import typing
+Coordinate = typing.**collections.namedtuple**NamedTuple('Coordinate', [('lat', float), ('lon', float)])
+
+这种方式可读性高，而且可以通过映射指定字段及类型，再使用**fields_and_types拆包。
+
+**@dataclasses.dataclass** 一个类装饰器，与前两种相比，可定制的内容更多，增加了大量选项，可实现更复杂的功能，从Python3.7开始提供。
+
+写法：
+from dataclasses import dataclass
+
+@dataclass
+class Coordinate:
+    lat: float
+    lon: float
+
+区别在于class语句上，@dataclass装饰器不依赖继承或元类，如果你想使用这些机制，则不受影响。
+
+3个数据类构建器有许多主要功能如下：
+
+* 可变实例
+  * 3个数据类构建器之间的主要区别在于，collections.namedtuple和typing.NamedTuple返回不可变实例，而@dataclass返回可变实例。
+
+* class语句句法
+  * 只有typing.NamedTuple和@dataclass支持class语句，方便为构建的嘞增加方法和文档字符串。
+
+* 构造字典
+  * 两种具名元组都提供了构造dict对象的实例方法(.asdict)，可根据数据类实例的字段构造字典。
+
+* 获取字段名称和默认值
+  * 3个类构建器都支持获取字段名称和可能配置的默认值。
+
+* 获取字段类型
+  * typing.NamedTuple和@dataclass定义的类有一个__annotations__属性，返回名称到类型的映射。使用typing.get_type_hints()函数获取。
+
+* 更改之后创建新实例
+
+* 运行时定义新类
+
+### 典型的具名元组
+
+
+collections.namedtuple是一个工厂函数，用于构建增强的tuple子类，具有字段名称、类名和提供有用信息的__repr__方法。namedtuple构建的类可在任何需要使用元组的地方使用。
+
+
