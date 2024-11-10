@@ -541,7 +541,53 @@ class Coordinate:
 
 ### 典型的具名元组
 
-
 collections.namedtuple是一个工厂函数，用于构建增强的tuple子类，具有字段名称、类名和提供有用信息的__repr__方法。namedtuple构建的类可在任何需要使用元组的地方使用。
 
+from collections import namedtuple
 
+City = namedtuple('City', 'name country population coordinates')
+
+tokyo = City('Tokyo', 'JP', 36.993, (35.689722, 139.691667))
+
+创建元组nametuple需要制定两个参数：一个类名和一个字段名称列表。后一个参数可以是产生字符串的可迭代对象，也可以是一整个以空格分割的字符串。
+
+字段名称必须以单个位置参数传递给构造函数，可以通过名称或者位置访问字段。
+
+### 带类型的具名元组
+
+from typeing import NamedTuple
+
+class Coordinate(NamedTuple):
+    lat: float
+    lon: float
+    reference: str = 'WGS84'
+
+每个字段都要注解类型
+
+实例字段reference注解了类型，还指定了默认值
+
+使用typing.NamedTuple构建的类，拥有的方法并不比collections.namedtuple生成的更多，而且同样也从tuple集成方法。唯一的区别是多了类属性__annotations__，而在运行时，Python弯曲忽略该属性。
+
+typing.NamedTuple的主要功能是类型注解。
+
+### 类型提示入门
+
+首先你要知道，Python字节码编译器和解释器并不强制要求你提供类型信息。
+
+Python的类型提示可以看作是：供IDE和类型检查工具验证类型的文档。这是因为类星体是其实对Python程序的运行时没有影响。
+
+类型提示主要是为了第三方类型检查工具提供支持，例如Mypy和PyCharm IDE内置的类型检查器。这些都是静态分析工具，在静止状态下检查Python源码，不运行代码。
+
+类属性是描述符，后续章节会讲到，现在可以把描述符理解为特性（property）读值(getter)方法，即不带调用运算符（）的方法，用于读取实例属性。元组是不可变的。
+
+### @dataclass详解
+
+这个装饰器接受叫多个关键参数，完整签名如下：
+
+@datasclass(*, init=Ture, repr=True, eq=True, order=False, unsave_hash=False, frozen=False)
+
+第一个参数*表示后面都是关键参数。
+
+![@dataclass装饰器接受的关键字参数](/assets/img/FluentPython/5.6.1.png.png)
+
+Python规定，带默认值的参数后面不能由不带默认值的参数。类属性通常用作实例属性的默认值，数据类也是如此。
