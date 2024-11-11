@@ -588,6 +588,6 @@ Python的类型提示可以看作是：供IDE和类型检查工具验证类型�
 
 第一个参数*表示后面都是关键参数。
 
-![@dataclass装饰器接受的关键字参数](/assets/img/FluentPython/5.6.1.png.png)
+![@dataclass装饰器接受的关键字参数](/assets/img/FluentPython/5.6.1.png)
 
 Python规定，带默认值的参数后面不能由不带默认值的参数。类属性通常用作实例属性的默认值，数据类也是如此。
