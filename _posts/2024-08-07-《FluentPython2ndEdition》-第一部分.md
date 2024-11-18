@@ -618,4 +618,51 @@ InitVal阻止@dataclass把Database视为常规字段，因此dataclass不会被�
 
 #### @dataclass示例：都柏林核心模式
 
-都柏林核心(Dublin Core)模式是一个小组术语
+都柏林核心(Dublin Core)模式是一个小组术语，可用于描述数字资源，也可用于描述物理资源，例如图书、CD和艺术品等对象。
+
+~~~python
+from dataclasses import dataclass, field
+from typing import Optional
+from enum import Enum, auto
+from datetime import date
+
+class ResourceType(Enum):
+    BOOK = auto()
+    EBOOK = auto()
+    VIDEO = auto()
+
+@dataclass
+class Resource
+    """描述媒体资源"""
+    identifier: str
+    title: str = '<untitled>'
+    creators: list[str] = filed(default_factory=list)
+    date: Optional[date] = None
+    type: ResourceType = ResourceType.BOOK
+    description: str = ''
+    language: str = ''
+    subjects: list[str] = field(default_factory=list)
+~~~
+
+数据类的确很方便，但是如果过度使用，也会为你的项目带来不好的影响.
+
+### 数据类导致代码异味
+
+所谓数据类是指他们拥有一些字段，以及用于访问（读写）这些字段的函数，除此之外一无长物。这样的类只是一种不会说话的数据容器，它们几乎一定被其他类过分繁琐地操控着。
+
+面向对象编程的主要思想是把行为和数据放在同一个代码单元（类）中。如果一个类使用广泛，但是自身没有什么重要的行为，那么整个系统可能遍布处理示例的代码，并出现在很多方法和函数中。
+
+有几种情况适合使用没什么行为或者没任何行为的数据类：
+
+1. 把数据类用作脚手架
+2. 把数据类用作中间表述
+
+### 模式匹配类实例
+
+类模式通过类型和属性（可选）匹配实例。类模式的匹配对象可以是任何类的实例，而不是仅仅是数据类的实例。
+
+类模式有三种变体：简单类模式、关键字类模式和位置类模式。
+
+### 本章小结
+
+本章主要讲了三个数据类构建器：collections.namedtuple、typing.NamedTuple和dataclasses.dataclass。每个构建器都可以根据给工厂函数的参数生成数据类，后两个构建器还可以通过class语句提供类型提示。两种具名元组变体生成的书tuple子类，与普通的元组相比，增加了通过名称访问字段的功能，另外还提供了一个类属性_fields，以字符串元组的形式列出字段名称。

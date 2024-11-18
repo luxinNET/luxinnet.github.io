@@ -37,6 +37,16 @@ tags: [study, flutter]
 3. **学习基础知识** 这是一篇针对新 Flutter 开发者且有明确指导性的文档，会引导你了解构建 Flutter 应用的重要部分，这部分里都是英文文档了。
    1. Intro to Dark
    2. Widget fundamentals
+      In regard to Flutter, you'll often hear "every thing is widget". Wedgets are the building blocks of a Flutter app's user interface, and each widget is an immutable declaration of part of the user interface. Widgets are used to describe all aspects of a user interface, including physical aspects such as text and buttons to lay out effects like padding and alignment.
+
+      关于 Flutter，你经常会听到 “一切都是一个小部件”。Widget 是 Flutter 应用用户界面的构建块，每个 widget 都是用户界面部分的不可变声明。小部件用于描述用户界面的所有方面，包括文本等物理方面和按钮，以布置填充和对齐等效果。
+
+      示例代码：
+
+      ~~~
+
+      ~~~
+
    3. Layout
    4. State management
    5. Handling user input
