@@ -582,6 +582,8 @@ Python的类型提示可以看作是：供IDE和类型检查工具验证类型�
 
 ### @dataclass详解
 
+@dataclass为Python数据类装饰器，主要用于建华数据类的创建过程，减少了样板代码。适用于需要大量数据存储和处理的场景，如配置文件、数据库模型等。
+
 这个装饰器接受叫多个关键参数，完整签名如下：
 
 @datasclass(*, init=Ture, repr=True, eq=True, order=False, unsave_hash=False, frozen=False)
@@ -591,3 +593,29 @@ Python的类型提示可以看作是：供IDE和类型检查工具验证类型�
 ![@dataclass装饰器接受的关键字参数](/assets/img/FluentPython/5.6.1.png)
 
 Python规定，带默认值的参数后面不能由不带默认值的参数。类属性通常用作实例属性的默认值，数据类也是如此。
+
+类属性通常用作实例属性的默认值，数据类也是如此。@dataclass使用类型中的默认值生成传给__init__方法的参数默认值。
+
+在设计可变对象如列表时，为确保@dataclass能正确处理默认值，需要采取一些额外的措施。因为默认值是共享的，如果不使用default_factory，可能会导致默认值重复的问题。
+
+default_factory是field最常用的参数。
+
+@dataclass应该只做一件事：把传入的参数及其默认值（如未指定值）赋值给实例属性，变成实例字段。可是，有时候初始化实例要做的不止这些，这时候就可以通过__post_init__方法。如果存在这个方法，则@dataclass将在生成的__init__方法最后调用__post_init__。
+
+有时，也需要把需要把不作为实例字段的参数传给__init__方法。这种参数叫“仅作初始化的变量”（init-only variable）。为了声明这种参数，dataclass模块提供了伪类型InitVal。
+
+@dataclass
+Class C:
+    i : int
+    j : int  = None
+    database : InitVal[DatabaseType] = None 
+    def __post_init__(self, databse):
+        if self.j is None and database is not None:
+            self.j = database.lookup('j')
+c = C(10, databse = my_aatabase) 
+
+InitVal阻止@dataclass把Database视为常规字段，因此dataclass不会被设为实例属性，也不会出现在dataclass.fields函数返回的列表中。然而，对于生成的__init__方法，database是参数之一，同时也会传给__post_init__方法。
+
+#### @dataclass示例：都柏林核心模式
+
+都柏林核心(Dublin Core)模式是一个小组术语
