@@ -190,13 +190,228 @@ operator模块
 
 ### 注册装饰器
 
+实际情况是，装饰器通常在一个模块中定义，然后再应用到其他模块中的函数上。
+
+大多数装饰器会更改被装饰的函数。通常的做法是，返回在装饰器内部定义的函数，取代被装饰的函数。涉及内部函数的代码基本上离不开闭包。
+
 ### 变量作用域规则
+
+为了理解闭包，需要后退一步，先研究Python中的变量作用域规则。
+
+~~~python
+b = 6
+def f2(a):
+    print(a)
+    print(b)
+    b = 9
+
+f2(3)
+~~~
+
+输出：
+
+~~~python
+3
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 3, in f2
+UnboundLocalError: local variable 'b' referenced before assignment
+~~~
+
+因为Python在编译函数主体（f2）时，判断b是局部变量，因为在函数内给它赋值了。所以，Python会尝试从局部作用域获取b。后面调用函数时，可以顺利打印a的值，但在尝试获取局部变量b时，发现b没绑定值。
+
+这是一种设计选择：**Python不要求声明变量，但是会假定在函数主体中赋值的变量是局部变量。**
+
+在函数中赋值时，如果想让解释器把b当成全局变量，为它分配一个新值，就要使用global声明。
+
+Python中的两种作用域
+
+**模块全局作用域**
+
+在类或函数块外部分配值的名称。
+
+**f3函数局部作用域**
+
+通过参数或者在函数主体中直接分配值的名称。
 
 ### 闭包
 
+其实，闭包就是延伸了作用域的函数，包括函数主体中引用的非全局变量和局部变量。这些变量必须来自包含f的外部函数的局部作用域。
+
+函数是不是匿名的没关系，关键是能访问主体之外定义的非全局变量。
+
+~~~python
+# 基于类的实现
+
+class Averager():
+    def __init__(self):
+        self.series = []
+
+    def __call__(self, new_value):
+        self.series.append(new_value)
+        total = sum(self.series)
+        return total / len(self.series)
+
+# 函数式实现，使用了高阶函数make_averager
+
+def make_averager():
+    series = []
+
+    def averager(new_value):
+        series.append(new_value)
+        total = sum(series)
+        return total / len(series)
+    
+    return averager
+~~~
+
+在示例2的averager函数中，series是**自由变量（free variable）**。自由变量是一个术语，指的是未在局部作用域中绑定的变量。
+
+
+![averager函数的闭包延伸到自身的作用域之外，包含自由变量series的绑定](/assets/img/FluentPython/9.6.1.png)
+
+series的值在返回的avg函数的__closure__属性中。avg.__closure__中的各项对应avg.__code__.co_freevars中的一个名称。这些项时cell对象，有一个名为cell_contents的属性，保存着真正的值。
+
+综上所述，闭包是一个函数，它保留了定义函数时存在的自由变量的绑定。如此一来，调用函数时，虽然定义作用域不可用了，但是仍能使用那些绑定。
+
+注意，只有在嵌套其他函数中的函数才可能需要处理不在全局作用域中的外部变量。这些外部变量位于外层函数的局部作用域内。
+
 ### nonlocal声明
 
+上面的示例效率不高，更高效的方法是只存储目前的总值与项数，根据这两个值计算平均值。
+
+~~~python
+def make_averager():
+    count = 0
+    total = 0
+
+    def averager(new_value):
+        count += 1
+        index += new_value
+        return total / index
+
+    return averager
+~~~
+
+但这样写会出现如9.5章中的错误：
+
+~~~python
+avg = make_averager()
+avg(10)
+
+Traceback (most recent call last):
+  ...
+UnboundLocalError: local variable 'count' referenced before assignment
+~~~
+
+问题是，对于数值或任何不可变类型，count += 1 语句的作用其实与count = count + 1一样，因此，实际上我们在函数主体中给count赋值了，这会导致Python把count当作了averger中的局部变量。total变量也受此问题的影响。
+
+上一个例子之所以没有这个问题是因为使用了series.append，并把它传给sum和len。也就是说，利用了“列表是可变对象”这一事实。
+
+但是，数值，字符串元组等不可变类型只能读取，不能更新。为了解决这个问题，Python引入了nonlocal关键字。它的作用是把变量标记为自由变量，即便在函数中为变量赋予了新值。如果为nonlocal声明的变量赋予新值，那么闭包中保存的绑定也会随之更新。改写后的代码如下：
+
+~~~python
+def make_averager():
+    count = 0
+    total = 0
+
+    def averager(new_value):
+        nonlocal count,index 
+        count += 1
+        index += new_value
+        return total / index
+
+    return averager
+~~~
+
+Python查找变量逻辑：
+
+Python字节码编译器根据以下规则获取函数主体中出现的变量x。
+    ●如果是global x声明，则x来自模块全局作用域，并赋予那个作用域中x的值。
+    ●如果是nonlocal x声明，则x来自最近一个定义它的外层函数，并赋予那个函数中局部变量x的值。
+    ●如果x是参数，或者在函数主体中赋了值，那么x就是局部变量。
+    ●如果引用了x，但是没有赋值也不是参数，则遵循以下规则。
+    ●在外层函数主体的局部作用域（非局部作用域）内查找x。
+    ●如果在外层作用域内未找到，则从模块全局作用域内读取。
+    ●如果在模块全局作用域内未找到，则从__builtins__.__dict__中读取。
+
 ### 实现一个简单的装饰器
+
+定义了一个简单的装饰器，该装饰器会在每次调用被装饰的函数时倒计时，打印相关内容。
+
+~~~python
+# 定义装饰器
+
+import time
+
+def clock(func):
+    def clocked(*args):
+        t0 = time.perf_counter()
+        result = func(*args)
+        elapsed = time.perf_counter() - t0
+        name = func.__name__
+        arg_str = ','.join(repr(arg) for arg in args)
+        print(f'[{elapsed:0.8f}s] {name}({arg_str}) -> {result!r}')
+        return result
+    return clocked
+
+# 使用装饰器
+import time
+from Y2024M11D25_01 import clock
+
+@clock
+def snooze(seconds):
+    time.sleep(seconds)
+
+@clock
+def factorial(n):
+    return 1 if n < 2 else n * factorial(n - 1)
+
+if __name__ == '__main__':
+    print('*' * 40, 'Calling snooze(.123)')
+    snooze(.123)
+    print('*' * 40, 'Calling factorial(6)')
+    print('6! =', factorial(6))
+~~~
+
+factorial保存的其实是clocked函数的引用。自此之后，每次调用factorial(n)执行的都是clocked(n)。clocked大致做了下面几件事。
+
+01 记录初始时间t0
+
+02 调用原来的factorial函数，保存结果。
+
+03 计算运行时间。
+
+04 格式化收集的数据，然后打印出来。
+
+05 返回第2步保存的结果。
+
+这是装饰器的典型行为：把被装饰的函数替换成新函数，新函数接受的参数与被装饰的函数一样，而且（通常）会返回被装饰的函数本该返回的值，同时还会做一些额外操作。
+
+>>> Gamma等人所著的《设计模式》一书是这样概述装饰器模式的：​“动态地给一个对象添加一些额外的职责。​”函数装饰器符合这种说法。但是，从实现层面上看，Python装饰器与该书中所说的装饰器没有多少相似之处。
+
+上面例子中实现的clock装饰器有几个缺点：不支持关键字参数，而且遮盖了被装饰函数的__name__属性和__doc__属性。以下是重构版本。
+
+~~~python
+import time
+import functools
+
+def clock(func):
+    @functools.wraps(func)
+    def clocked(*args, **kwargs):
+        t0 = time.perf_counter()
+        result = func(*args, **kwargs)
+        elapsed = time.perf_counter() - t0
+        name = func.__name__
+        arg_lst = [repr(arg) for arg in args]
+        arg_lst.extend(f'{k} = {v!r}' for k, v in kwargs.items())
+        arg_str = ','.join(arg_lst)
+        print(f'[{elapsed:0.8f}s] {name}({arg_str}) -> {result!r}')
+        return result
+    return clocked
+~~~
+
+functools.wraps只是标准库中开箱即用的装饰器之一。
 
 ### 标准库中的装饰器
 
