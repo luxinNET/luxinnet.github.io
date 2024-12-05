@@ -227,11 +227,9 @@ UnboundLocalError: local variable 'b' referenced before assignment
 Python中的两种作用域
 
 **模块全局作用域**
-
 在类或函数块外部分配值的名称。
 
 **f3函数局部作用域**
-
 通过参数或者在函数主体中直接分配值的名称。
 
 ### 闭包
@@ -266,7 +264,6 @@ def make_averager():
 ~~~
 
 在示例2的averager函数中，series是**自由变量（free variable）**。自由变量是一个术语，指的是未在局部作用域中绑定的变量。
-
 
 ![averager函数的闭包延伸到自身的作用域之外，包含自由变量series的绑定](/assets/img/FluentPython/9.6.1.png)
 
