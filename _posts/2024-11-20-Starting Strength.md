@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting Strength
+title: Starting Strength——to do
 category: Exercise Notes
 tags: [Mark Rippetoe, Strength lifts the foundation]
 comments: true

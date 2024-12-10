@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《Everyone Can Use English》 笔记
+title: 《Everyone Can Use English》 笔记——to do
 category: Exercise Notes
 tags: [Mark Rippetoe, Strength lifts the foundation]
 comments: true

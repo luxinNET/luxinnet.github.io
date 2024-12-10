@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《Math for Programmers》笔记-第一部分 向量和图形
+title: 《Math for Programmers》笔记-第一部分 向量和图形——to do
 category: Read Notes
 tags: [Math for Programmers]
 ---

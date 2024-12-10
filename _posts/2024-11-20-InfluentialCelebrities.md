@@ -1,6 +1,6 @@
 ---
 layout: post
-title: InfluentialCelebrities
+title: InfluentialCelebrities——to do
 category: Celebrities Notes
 tags: [Elon Must, Mark Rippetoe, 徐霞客]
 comments: true
