@@ -21,40 +21,26 @@ Berkshire was then a northern(北方的、北部的) textile(纺织) manufacture
 
 That was true even though the industry’s problems had long been widely understood(广为人知). Berkshire’s own Board(董事会) minutes(会议纪要) of July 29, 1954, laid out(lay out 过去式，把某事物清晰地阐述、说明、罗列) the grim(严峻的、冷酷的、糟糕的) facts: “The textile industry in New England started going out of business(短语，意味停业、歇业、倒闭) forty years ago. During the war years(在战争年代) this trend(趋势、趋向) was stopped. The trend must continue until supply and demand(短语，供给和需求、供求、供需) have been balanced.”
 
-About a year after that board meeting, Berkshire Fine Spinning Associates and Hathaway Manufacturing –
-both with roots in the 19th Century – joined forces, taking the name we bear today. With its fourteen plants and
-10,000 employees, the merged company became the giant of New England textiles. What the two managements
-viewed as a merger agreement, however, soon morphed into a suicide pact. During the seven years following the
-consolidation, Berkshire operated at an overall loss, and its net worth shrunk by 37%.
-Meanwhile, the company closed nine plants, sometimes using the liquidation proceeds to repurchase
-shares. And that pattern caught my attention.
-I purchased BPL’s first shares of Berkshire in December 1962, anticipating more closings and more
-repurchases. The stock was then selling for $7.50, a wide discount from per-share working capital of $10.25 and
-book value of $20.20. Buying the stock at that price was like picking up a discarded cigar butt that had one puff
-remaining in it. Though the stub might be ugly and soggy, the puff would be free. Once that momentary pleasure
-was enjoyed, however, no more could be expected.
-Berkshire thereafter stuck to the script: It soon closed another two plants, and in that May 1964 move, set
-out to repurchase shares with the shutdown proceeds. The price that Stanton offered was 50% above the cost of our
-original purchases. There it was – my free puff, just waiting for me, after which I could look elsewhere for other
-discarded butts.
-Instead, irritated by Stanton’s chiseling, I ignored his offer and began to aggressively buy more Berkshire
-shares.
-24
-By April 1965, BPL owned 392,633 shares (out of 1,017,547 then outstanding) and at an early-May board
-meeting we formally took control of the company. Through Seabury’s and my childish behavior – after all, what
-was an eighth of a point to either of us? – he lost his job, and I found myself with more than 25% of BPL’s capital
-invested in a terrible business about which I knew very little. I became the dog who caught the car.
-Because of Berkshire’s operating losses and share repurchases, its net worth at the end of fiscal 1964 had
-fallen to $22 million from $55 million at the time of the 1955 merger. The full $22 million was required by the
-textile operation: The company had no excess cash and owed its bank $2.5 million. (Berkshire’s 1964 annual report
+About a year after that board meeting, Berkshire Fine Spinning Associates(伙伴、同事，此处为联合) and Hathaway Manufacturing – both with roots in the 19th Century – joined forces, taking the name we bear today. With its fourteen plants and 10,000 employees, the merged company became the giant of New England textiles. What the two managements viewed as a merger agreement, however, soon morphed into a suicide pact. During the seven years following the consolidation, Berkshire operated at an overall loss, and its net worth shrunk by 37%.
+
+Meanwhile, the company closed nine plants, sometimes using the liquidation proceeds to repurchase shares. And that pattern caught my attention.
+
+I purchased BPL’s first shares of Berkshire in December 1962, anticipating more closings and more repurchases. The stock was then selling for $7.50, a wide discount from per-share working capital of $10.25 and book value of $20.20. Buying the stock at that price was like picking up a discarded cigar butt that had one puff
+remaining in it. Though the stub might be ugly and soggy, the puff would be free. Once that momentary pleasure was enjoyed, however, no more could be expected.
+
+Berkshire thereafter stuck to the script: It soon closed another two plants, and in that May 1964 move, set out to repurchase shares with the shutdown proceeds. The price that Stanton offered was 50% above the cost of our original purchases. There it was – my free puff, just waiting for me, after which I could look elsewhere for other discarded butts.
+
+Instead, irritated by Stanton’s chiseling, I ignored his offer and began to aggressively buy more Berkshire shares.
+
+By April 1965, BPL owned 392,633 shares (out of 1,017,547 then outstanding) and at an early-May board meeting we formally took control of the company. Through Seabury’s and my childish behavior – after all, what was an eighth of a point to either of us? – he lost his job, and I found myself with more than 25% of BPL’s capital invested in a terrible business about which I knew very little. I became the dog who caught the car.
+
+Because of Berkshire’s operating losses and share repurchases, its net worth at the end of fiscal 1964 had fallen to $22 million from $55 million at the time of the 1955 merger. The full $22 million was required by the textile operation: The company had no excess cash and owed its bank $2.5 million. (Berkshire’s 1964 annual report
 is reproduced on pages 130-142.)
-For a time I got lucky: Berkshire immediately enjoyed two years of good operating conditions. Better yet,
-its earnings in those years were free of income tax because it possessed a large loss carry-forward that had arisen
-from the disastrous results in earlier years.
-Then the honeymoon ended. During the 18 years following 1966, we struggled unremittingly with the
-textile business, all to no avail. But stubbornness – stupidity? – has its limits. In 1985, I finally threw in the towel
-and closed the operation.
+
+For a time I got lucky: Berkshire immediately enjoyed two years of good operating conditions. Better yet, its earnings in those years were free of income tax because it possessed a large loss carry-forward that had arisen from the disastrous results in earlier years. Then the honeymoon ended. During the 18 years following 1966, we struggled unremittingly with the textile business, all to no avail. But stubbornness – stupidity? – has its limits. In 1985, I finally threw in the towel and closed the operation.
+
 ************
+
 Undeterred by my first mistake of committing much of BPL’s resources to a dying business, I quickly
 compounded the error. Indeed, my second blunder was far more serious than the first, eventually becoming the most
 costly in my career.
