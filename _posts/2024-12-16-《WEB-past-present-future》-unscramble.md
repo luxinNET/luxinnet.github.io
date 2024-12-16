@@ -26,7 +26,7 @@ Meanwhile(同时), the company closed nine plants, sometimes using the liquidati
 
 I purchased BPL’s first shares of Berkshire in December 1962, anticipating(期望、预期) more closings and more repurchases. The stock was then selling for $7.50, a wide discount from per-share working capital(营运资本) of $10.25 and book value(账面价值) of $20.20. Buying the stock at that price was like picking up a discarded(废弃的) cigar butt(雪茄屁股) that had one puff(一口) remaining(剩余) in it. Though the stub(残端、残余部分，这里比喻成雪茄屁股) might be ugly and soggy(湿软的、潮湿的), the puff would be free. Once that momentary(短暂的) pleasure was enjoyed, however, no more could be expected.
 
-Berkshire thereafter(在此之后) stuck to the script(遵循计划): It soon closed another two plants, and in that May 1964 move, set out to repurchase shares with the shutdown proceeds. The price that Stanton offered was 50% above the cost of our original purchases. There it was – my free puff, just waiting for me, after which I could look elsewhere for other discarded butts.
+Berkshire thereafter(在此之后) stuck to the script(遵循计划): It soon closed another two plants, and in that May 1964 move, set out to repurchase shares with the shutdown proceeds. The price that Stanton offered was 50% above the cost of our original purchases. There it was – my free puff, just waiting for me, after which I could look else where for other discarded butts.
 
 Instead, irritated by Stanton’s chiseling, I ignored his offer and began to aggressively buy more Berkshire shares.
 
