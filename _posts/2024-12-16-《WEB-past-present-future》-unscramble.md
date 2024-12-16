@@ -11,17 +11,15 @@ comments: true
 ## Berkshire – Past, Present and Future
 
 **In the Beginning**
-On May 6, 1964, Berkshire Hathaway, then run by a man named Seabury Stanton, sent a letter to its shareholders(股东) offering to buy 225,000 shares（股） of its stock（股票） for $11.375 per share（每股）. I had expected（预期） the letter; I was surprised by the price.
+On May 6, 1964, Berkshire Hathaway, then run by a man named Seabury Stanton, sent a letter to its shareholders(股东) offering to buy 225,000 shares(股) of its stock(股票) for $11.375 per share(每股). I had expected(预期) the letter; I was surprised by the price.
 
-Berkshire then had 1,583,680 shares outstanding. About 7% of these were owned by Buffett Partnership Ltd. (“BPL”), an investing entity that I managed and in which I had virtually all of my net worth. Shortly before the tender offer was mailed, Stanton had asked me at what price BPL would sell its holdings. I answered $11.50, and he
-said, “Fine, we have a deal.” Then came Berkshire’s letter, offering an eighth of a point less. I bristled at Stanton’s behavior and didn’t tender.
+Berkshire then had 1,583,680 shares outstanding(流通股). About 7% of these were owned by Buffett Partnership Ltd. (“BPL”), an investing entity(投资实体) that I managed and in which I had virtually(几乎) all of my net worth(净资产). Shortly before the tender offer(邀约收购) was mailed(邮寄、发出), Stanton had asked me at what price BPL would sell its holdings. I answered $11.50, and he said, “Fine, we have a deal.” Then came Berkshire’s letter, offering an eighth of a point less. I bristled at(对...感到愤怒、生气) Stanton’s behavior(行为) and didn’t tender.
 
-That was a monumentally stupid decision.
+That was a monumentally(极大的、不朽的、纪念碑的) stupid decision（决定）.
 
-Berkshire was then a northern textile manufacturer mired in a terrible business. The industry in which it operated was heading south, both metaphorically and physically. And Berkshire, for a variety of reasons, was unable to change course.
+Berkshire was then a northern(北方的、北部的) textile(纺织) manufacturer(制造商) mired(陷入、深陷于...) in a terrible business. The industry(工业) in which it operated(操作、此处指经营、运作) was heading south(向南走，比喻手法，此处指下坡路), both metaphorically(比喻) and physically(物理). And Berkshire, for a variety of reasons(各种各样的原因), was unable(不能) to change course(方向).
 
-That was true even though the industry’s problems had long been widely understood. Berkshire’s own Board minutes of July 29, 1954, laid out the grim facts: “The textile industry in New England started going out of business forty years ago. During the war years this trend was stopped. The trend must continue until supply and
-demand have been balanced.”
+That was true even though the industry’s problems had long been widely understood(广为人知). Berkshire’s own Board(董事会) minutes(会议纪要) of July 29, 1954, laid out(lay out 过去式，把某事物清晰地阐述、说明、罗列) the grim(严峻的、冷酷的、糟糕的) facts: “The textile industry in New England started going out of business(短语，意味停业、歇业、倒闭) forty years ago. During the war years(在战争年代) this trend(趋势、趋向) was stopped. The trend must continue until supply and demand(短语，供给和需求、供求、供需) have been balanced.”
 
 About a year after that board meeting, Berkshire Fine Spinning Associates and Hathaway Manufacturing –
 both with roots in the 19th Century – joined forces, taking the name we bear today. With its fourteen plants and
