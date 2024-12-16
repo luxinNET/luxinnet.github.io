@@ -2,7 +2,7 @@
 layout: post
 title: 2025 Reading List
 description: "2025 Reading List"
-category: List
+category: Securities
 tags: [book, read]
 comments: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Records of securities transactions——to do
-category: Securities
+category: Investment
 tags: [securities transactions]
 ---
 
