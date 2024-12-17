@@ -28,13 +28,15 @@ I purchased BPL’s first shares of Berkshire in December 1962, anticipating(期
 
 Berkshire thereafter(在此之后) stuck to the script(遵循计划): It soon closed another two plants, and in that May 1964 move, set out to repurchase shares with the shutdown proceeds. The price that Stanton offered was 50% above the cost of our original purchases. There it was – my free puff, just waiting for me, after which I could look else where for other discarded butts.
 
-Instead, irritated by Stanton’s chiseling, I ignored his offer and began to aggressively buy more Berkshire shares.
+Instead(相反), irritated by(被...激怒、因...生气) Stanton’s chiseling(欺骗、诈骗、讨价还价), I ignored his offer and began to aggressively(积极地、激进地、大力地) buy more Berkshire shares.
 
-By April 1965, BPL owned 392,633 shares (out of 1,017,547 then outstanding) and at an early-May board meeting we formally took control of the company. Through Seabury’s and my childish behavior – after all, what was an eighth of a point to either of us? – he lost his job, and I found myself with more than 25% of BPL’s capital invested in a terrible business about which I knew very little. I became the dog who caught the car.
+By April 1965, BPL owned 392,633 shares (out of 1,017,547 then outstanding) and at an early-May board meeting we formally(正式地) took control of the company. Through Seabury’s and my childish(幼稚) behavior – after all, what was an eighth of a point to either of us? – he lost his job, and I found myself with more than 25% of BPL’s capital invested in a terrible business about which I knew very little. I became the dog who caught the car(追到汽车的狗，寓意陷入一种看似达成目标却不知如何应对的困境).
 
-Because of Berkshire’s operating losses and share repurchases, its net worth at the end of fiscal 1964 had fallen to $22 million from $55 million at the time of the 1955 merger. The full $22 million was required by the textile operation: The company had no excess cash and owed its bank $2.5 million. (Berkshire’s 1964 annual report is reproduced on pages 130-142.)
+Because of Berkshire’s operating losses and share repurchases, its net worth at the end of fiscal 1964(财政的、会计的，此处指1964财年) had fallen(已经跌落、已经下降) to $22 million from $55 million at the time of the 1955 merger. The full $22 million was required by the textile operation: The company had no excess(多余的、过剩的) cash and owed its bank $2.5 million. (Berkshire’s 1964 annual(年度) report is reproduced on pages 130-142.)
 
-For a time I got lucky: Berkshire immediately enjoyed two years of good operating conditions. Better yet, its earnings in those years were free of income tax because it possessed a large loss carry-forward that had arisen from the disastrous results in earlier years. Then the honeymoon ended. During the 18 years following 1966, we struggled unremittingly with the textile business, all to no avail. But stubbornness – stupidity? – has its limits. In 1985, I finally threw in the towel and closed the operation.
+For a time I got lucky: Berkshire immediately(立刻、马上) enjoyed two years of good operating conditions(状况、状态). Better yet, its earnings(收益) in those years were free of income tax(所得税) because it possessed(拥有) a large loss carry-forward(专业财务用语，亏损结转) that had arisen from the disastrous(灾难性的、极糟糕的) results in earlier years.
+
+Then the honeymoon(蜜月，比喻手法，形容美好的时期) ended. During the 18 years following 1966, we struggled(挣扎、奋斗、努力) unremittingly(不间断地、坚持不懈地) with the textile business, all to no avail(用处，全部徒劳无功). But stubbornness(固执、执拗) – stupidity? – has its limits. In 1985, I finally threw in the towel(扔毛巾进去，指投降认输) and closed the operation.
 
 ************
 
