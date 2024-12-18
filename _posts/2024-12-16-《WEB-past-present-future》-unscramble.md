@@ -16,7 +16,7 @@ Berkshire then had 1,583,680 shares outstanding(流通股). About 7% of these we
 
 That was a monumentally(极大的、不朽的、纪念碑的) stupid decision（决定）.
 
-Berkshire was then a northern(北方的、北部的) textile(纺织) manufacturer(制造商) mired(陷入、深陷于...) in a terrible business. The industry(工业) in which it operated(操作、此处指经营、运作) was heading south(向南走，比喻手法，此处指下坡路), both metaphorically(比喻) and physically(物理). And Berkshire, for a variety of reasons(各种各样的原因), was unable(不能) to change course(方向).
+Berkshire was then a northern(北方的、北部的) textile(纺织) manufacturer(制造商) mired(陷入、深陷于...) in a terrible business. The industry(行业) in which it operated(操作、此处指经营、运作) was heading south(向南走，比喻手法，此处指下坡路), both metaphorically(比喻) and physically(物理). And Berkshire, for a variety of reasons(各种各样的原因), was unable(不能) to change course(方向).
 
 That was true even though(尽管) the industry’s problems had long been widely understood(广为人知). Berkshire’s own Board(董事会) minutes(会议纪要) of July 29, 1954, laid out(lay out 过去式，把某事物清晰地阐述、说明、罗列) the grim(严峻的、冷酷的、糟糕的) facts: “The textile industry in New England started going out of business(短语，意味停业、歇业、倒闭) forty years ago. During the war years(在战争年代) this trend(趋势、趋向) was stopped. The trend must continue until supply and demand(短语，供给和需求、供求、供需) have been balanced.”
 
@@ -40,48 +40,30 @@ Then the honeymoon(蜜月，比喻手法，形容美好的时期) ended. During 
 
 ************
 
-Undeterred by my first mistake of committing much of BPL’s resources to a dying business, I quickly
-compounded the error. Indeed, my second blunder was far more serious than the first, eventually becoming the most
-costly in my career.
-Early in 1967, I had Berkshire pay $8.6 million to buy National Indemnity Company (“NICO”), a small but
-promising Omaha-based insurer. (A tiny sister company was also included in the deal.) Insurance was in my sweet
-spot: I understood and liked the industry.
-Jack Ringwalt, the owner of NICO, was a long-time friend who wanted to sell to me – me, personally. In
-no way was his offer intended for Berkshire. So why did I purchase NICO for Berkshire rather than for BPL? I’ve
-had 48 years to think about that question, and I’ve yet to come up with a good answer. I simply made a colossal
-mistake.
-If BPL had been the purchaser, my partners and I would have owned 100% of a fine business, destined to
-form the base for building the company Berkshire has become. Moreover, our growth would not have been impeded
-for nearly two decades by the unproductive funds imprisoned in the textile operation. Finally, our subsequent
-acquisitions would have been owned in their entirety by my partners and me rather than being 39%-owned by the
-legacy shareholders of Berkshire, to whom we had no obligation. Despite these facts staring me in the face, I opted
-to marry 100% of an excellent business (NICO) to a 61%-owned terrible business (Berkshire Hathaway), a decision
-that eventually diverted $100 billion or so from BPL partners to a collection of strangers.
+Undeterred(未被吓住的、未被阻止的、毫不气馁的) by my first mistake of committing much of BPL’s resources to a dying business, I quickly compounded(合成、混合、加重) the error. Indeed, my second blunder(愚蠢或粗心的错误) was far more serious than the first, eventually(最终、终于、到头来) becoming the most costly(代价) in my career(职业生涯).
+
+Early in 1967, I had Berkshire pay $8.6 million to buy National Indemnity Company (“NICO”), a small but promising(有希望的、有前途的) Omaha-based insurer(保险公司). (A tiny sister company(小型姊妹公司) was also included in the deal.) Insurance(保险) was in my sweet spot(最佳位置、状态、擅长的领域): I understood and liked the industry.
+
+Jack Ringwalt, the owner of NICO, was a long-time friend who wanted to sell to me – me, personally. In no way was his offer intended for Berkshire. So why did I purchase NICO for Berkshire rather than for BPL? I’ve had 48 years to think about that question, and I’ve yet to come up with a good answer. I simply made a colossal(巨大的、庞大的、极其严重的) mistake.
+
+If BPL had been the purchaser, my partners and I would have owned 100% of a fine business, destined(命中注定的、注定要发生的) to form the base for building the company Berkshire has become. Moreover(此外、再者), our growth would not have been impeded(阻碍、阻止、此处为停滞) for nearly two decades(十年) by the unproductive funds(无法产生效益的资金) imprisoned(束缚、禁锢) in the textile operation. Finally, our subsequent(随后的、后来的、接着的) acquisitions(收购、获得、购置) would have been owned in their entirety(整体、全部、此处为完全) by my partners and me rather than being 39%-owned by the legacy(遗留) shareholders of Berkshire, to whom we had no obligation(责任、义务). Despite these facts staring me in the face, I opted to marry 100% of an excellent(卓越的、优秀的) business (NICO) to a 61%-owned terrible business (Berkshire Hathaway), a decision that eventually diverted(使转移、使绕道) $100 billion or so from BPL partners to a collection(集合、聚合物、此处为一群) of strangers.
+
 ************
-One more confession and then I’ll go on to more pleasant topics: Can you believe that in 1975 I bought
-Waumbec Mills, another New England textile company? Of course, the purchase price was a “bargain” based on the
-assets we received and the projected synergies with Berkshire’s existing textile business. Nevertheless – surprise,
-surprise – Waumbec was a disaster, with the mill having to be closed down not many years later.
-And now some good news: The northern textile industry is finally extinct. You need no longer panic if you
-hear that I’ve been spotted wandering around New England.
-25
-Charlie Straightens Me Out
-My cigar-butt strategy worked very well while I was managing small sums. Indeed, the many dozens of
-free puffs I obtained in the 1950s made that decade by far the best of my life for both relative and absolute
-investment performance.
-Even then, however, I made a few exceptions to cigar butts, the most important being GEICO. Thanks to a
-1951 conversation I had with Lorimer Davidson, a wonderful man who later became CEO of the company, I learned
-that GEICO was a terrific business and promptly put 65% of my $9,800 net worth into its shares. Most of my gains
-in those early years, though, came from investments in mediocre companies that traded at bargain prices. Ben
-Graham had taught me that technique, and it worked.
-But a major weakness in this approach gradually became apparent: Cigar-butt investing was scalable only
-to a point. With large sums, it would never work well.
-In addition, though marginal businesses purchased at cheap prices may be attractive as short-term
-investments, they are the wrong foundation on which to build a large and enduring enterprise. Selecting a marriage
-partner clearly requires more demanding criteria than does dating. (Berkshire, it should be noted, would have been a
-highly satisfactory “date”: If we had taken Seabury Stanton’s $11.375 offer for our shares, BPL’s weighted annual
-return on its Berkshire investment would have been about 40%.)
+
+One more confession(坦白、工人、忏悔) and then I’ll go on to more pleasant(令人愉悦的) topics(话题、主题): Can you believe that in 1975 I bought Waumbec Mills, another New England textile company? Of course, the purchase price was a “bargain”(特价品、便宜货) based on the assets we received and the projected(此处为动词：预计、计划) synergies(协同效应) with Berkshire’s existing(现行的、目前的、此处已有的) textile business. Nevertheless – surprise, surprise – Waumbec was a disaster, with the mill having to be closed down not many years later. And now some good news: The northern textile industry is finally extinct(消亡). You need no longer panic(恐慌的、惊慌的) if you hear that I’ve been spotted(此处作形容词，看见、发现) wandering(漫步、闲逛、徘徊) around New England.
+
+**Charlie Straightens Me Out**
+
+My cigar-butt strategy(策略) worked very well while I was managing small sums(金额、款项). Indeed, the many dozens(几十、几十个) of free puffs I obtained(强调通过努力、购买、研究等方式，此处为获取、得到、取得) in the 1950s made that decade by far the best of my life for both relative(相对) and absolute(绝对) investment performance(投资绩效).
+
+Even then, however, I made a few exceptions to cigar butts, the most important being GEICO. Thanks to a 1951 conversation I had with Lorimer Davidson, a wonderful man who later became CEO of the company, I learned that GEICO was a terrific(极好的、绝妙的) business and promptly(迅速地、立即) put 65% of my $9,800 net worth into its shares. Most of my gains(收益、利润) in those early years, though, came from investments in mediocre(平庸的、普通的) companies that traded at bargain prices. Ben Graham had taught me that technique, and it worked.
+
+But a major(主要的、重要的) weakness in this approach(靠近、接近) gradually(逐步地、渐渐地) became apparent: Cigar-butt investing was scalable(可攀登的) only to a point. With large sums, it would never work well.
+
+In addition, though marginal businesses purchased at cheap prices may be attractive as short-term investments, they are the wrong foundation on which to build a large and enduring enterprise. Selecting a marriage partner clearly requires more demanding criteria than does dating. (Berkshire, it should be noted, would have been a highly satisfactory “date”: If we had taken Seabury Stanton’s $11.375 offer for our shares, BPL’s weighted annual return on its Berkshire investment would have been about 40%.)
+
 ************
+
 It took Charlie Munger to break my cigar-butt habits and set the course for building a business that could
 combine huge size with satisfactory profits. Charlie had grown up a few hundred feet from where I now live and as
 a youth had worked, as did I, in my grandfather’s grocery store. Nevertheless, it was 1959 before I met Charlie, long
