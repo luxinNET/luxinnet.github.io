@@ -50,7 +50,9 @@ If BPL had been the purchaser, my partners and I would have owned 100% of a fine
 
 ************
 
-One more confession(坦白、工人、忏悔) and then I’ll go on to more pleasant(令人愉悦的) topics(话题、主题): Can you believe that in 1975 I bought Waumbec Mills, another New England textile company? Of course, the purchase price was a “bargain”(特价品、便宜货) based on the assets we received and the projected(此处为动词：预计、计划) synergies(协同效应) with Berkshire’s existing(现行的、目前的、此处已有的) textile business. Nevertheless – surprise, surprise – Waumbec was a disaster, with the mill having to be closed down not many years later. And now some good news: The northern textile industry is finally extinct(消亡). You need no longer panic(恐慌的、惊慌的) if you hear that I’ve been spotted(此处作形容词，看见、发现) wandering(漫步、闲逛、徘徊) around New England.
+One more confession(坦白、工人、忏悔) and then I’ll go on to more pleasant(令人愉悦的) topics(话题、主题): Can you believe that in 1975 I bought Waumbec Mills, another New England textile company? Of course, the purchase price was a “bargain”(特价品、便宜货) based on the assets we received and the projected(此处为动词：预计、计划) synergies(协同效应) with Berkshire’s existing(现行的、目前的、此处已有的) textile business. Nevertheless – surprise, surprise – Waumbec was a disaster, with the mill having to be closed down not many years later.
+
+And now some good news: The northern textile industry is finally extinct(消亡). You need no longer panic(恐慌的、惊慌的) if you hear that I’ve been spotted(此处作形容词，看见、发现) wandering(漫步、闲逛、徘徊) around New England.
 
 **Charlie Straightens Me Out**
 
@@ -60,56 +62,33 @@ Even then, however, I made a few exceptions to cigar butts, the most important b
 
 But a major(主要的、重要的) weakness in this approach(靠近、接近) gradually(逐步地、渐渐地) became apparent: Cigar-butt investing was scalable(可攀登的) only to a point. With large sums, it would never work well.
 
-In addition, though marginal businesses purchased at cheap prices may be attractive as short-term investments, they are the wrong foundation on which to build a large and enduring enterprise. Selecting a marriage partner clearly requires more demanding criteria than does dating. (Berkshire, it should be noted, would have been a highly satisfactory “date”: If we had taken Seabury Stanton’s $11.375 offer for our shares, BPL’s weighted annual return on its Berkshire investment would have been about 40%.)
+In addition(除此之外), though marginal(边缘) businesses purchased at cheap prices may be attractive(吸引力) as short-term investments, they are the wrong foundation(基础、根基) on which to build a large and enduring(持久、经久不衰) enterprise. Selecting a marriage partner clearly requires more demanding(苛刻、苛求) criteria(标准) than does dating. (Berkshire, it should be noted, would have been a highly satisfactory(非常满意的) “date”: If we had taken Seabury Stanton’s $11.375 offer for our shares, BPL’s weighted annual return on its Berkshire investment would have been about 40%.)
 
 ************
 
-It took Charlie Munger to break my cigar-butt habits and set the course for building a business that could
-combine huge size with satisfactory profits. Charlie had grown up a few hundred feet from where I now live and as
-a youth had worked, as did I, in my grandfather’s grocery store. Nevertheless, it was 1959 before I met Charlie, long
-after he had left Omaha to make Los Angeles his home. I was then 28 and he was 35. The Omaha doctor who
-introduced us predicted that we would hit it off – and we did.
-If you’ve attended our annual meetings, you know Charlie has a wide-ranging brilliance, a prodigious
-memory, and some firm opinions. I’m not exactly wishy-washy myself, and we sometimes don’t agree. In 56 years,
-however, we’ve never had an argument. When we differ, Charlie usually ends the conversation by saying: “Warren,
-think it over and you’ll agree with me because you’re smart and I’m right.”
-What most of you do not know about Charlie is that architecture is among his passions. Though he began
-his career as a practicing lawyer (with his time billed at $15 per hour), Charlie made his first real money in his 30s
-by designing and building five apartment projects near Los Angeles. Concurrently, he designed the house that he
-lives in today – some 55 years later. (Like me, Charlie can’t be budged if he is happy in his surroundings.) In recent
-years, Charlie has designed large dorm complexes at Stanford and the University of Michigan and today, at age 91,
-is working on another major project.
-From my perspective, though, Charlie’s most important architectural feat was the design of today’s
-Berkshire. The blueprint he gave me was simple: Forget what you know about buying fair businesses at wonderful
-prices; instead, buy wonderful businesses at fair prices.
-26
-Altering my behavior is not an easy task (ask my family). I had enjoyed reasonable success without
-Charlie’s input, so why should I listen to a lawyer who had never spent a day in business school (when – ahem – I
-had attended three). But Charlie never tired of repeating his maxims about business and investing to me, and his
-logic was irrefutable. Consequently, Berkshire has been built to Charlie’s blueprint. My role has been that of general
-contractor, with the CEOs of Berkshire’s subsidiaries doing the real work as sub-contractors.
-The year 1972 was a turning point for Berkshire (though not without occasional backsliding on my part –
-remember my 1975 purchase of Waumbec). We had the opportunity then to buy See’s Candy for Blue Chip Stamps,
-a company in which Charlie, I and Berkshire had major stakes, and which was later merged into Berkshire.
-See’s was a legendary West Coast manufacturer and retailer of boxed chocolates, then annually earning
-about $4 million pre-tax while utilizing only $8 million of net tangible assets. Moreover, the company had a huge
-asset that did not appear on its balance sheet: a broad and durable competitive advantage that gave it significant
-pricing power. That strength was virtually certain to give See’s major gains in earnings over time. Better yet, these
-would materialize with only minor amounts of incremental investment. In other words, See’s could be expected to
-gush cash for decades to come.
-The family controlling See’s wanted $30 million for the business, and Charlie rightly said it was worth that
-much. But I didn’t want to pay more than $25 million and wasn’t all that enthusiastic even at that figure. (A price
-that was three times net tangible assets made me gulp.) My misguided caution could have scuttled a terrific
+It took Charlie Munger to break my cigar-butt habits and set the course for building a business that could combine(组合) huge size with satisfactory profits(利润). Charlie had grown up a few hundred feet from where I now live and as a youth had worked, as did I, in my grandfather’s grocery store. Nevertheless(然而), it was 1959 before I met Charlie, long after he had left Omaha to make Los Angeles his home. I was then 28 and he was 35. The Omaha doctor who introduced us predicted(预测) that we would hit it off – and we did.
+
+If you’ve attended(出息、参加) our annual meetings, you know Charlie has a wide-ranging brilliance(广泛的卓越才能), a prodigious(巨大的、惊人的、非凡的) memory, and some firm opinions. I’m not exactly wishy-washy myself, and we sometimes don’t agree. In 56 years, however, we’ve never had an argument. When we differ, Charlie usually ends the conversation by saying: “Warren, think it over and you’ll agree with me because you’re smart and I’m right.”
+
+What most of you do not know about Charlie is that architecture(建筑) is among(在。。。中) his passions(喜好). Though he began his career as a practicing lawyer(执业律师) (with his time billed(计费、收费) at $15 per hour), Charlie made his first real money in his 30s by designing and building five apartment projects near Los Angeles. Concurrently(与此同时), he designed the house that he lives in today – some 55 years later. (Like me, Charlie can’t be budged(不能被挪动、不能被劝服) if he is happy in his surroundings(环境、周遭).) In recent years, Charlie has designed large dorm complexes(宿舍楼) at Stanford and the University of Michigan and today, at age 91, is working on another major project.
+
+From my perspective(观点), though, Charlie’s most important architectural(建筑的) feat was the design of today’s Berkshire. The blueprint(蓝图) he gave me was simple: Forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices.
+
+Altering my behavior is not an easy task (ask my family). I had enjoyed reasonable success without Charlie’s input, so why should I listen to a lawyer who had never spent a day in business school (when – ahem – I had attended three). But Charlie never tired of repeating his maxims about business and investing to me, and his logic was irrefutable. Consequently, Berkshire has been built to Charlie’s blueprint. My role has been that of general contractor, with the CEOs of Berkshire’s subsidiaries doing the real work as sub-contractors.
+
+The year 1972 was a turning point for Berkshire (though not without occasional backsliding on my part – remember my 1975 purchase of Waumbec). We had the opportunity then to buy See’s Candy for Blue Chip Stamps, a company in which Charlie, I and Berkshire had major stakes, and which was later merged into Berkshire.
+
+See’s was a legendary West Coast manufacturer and retailer of boxed chocolates, then annually earning about $4 million pre-tax while utilizing only $8 million of net tangible assets. Moreover, the company had a huge asset that did not appear on its balance sheet: a broad and durable competitive advantage that gave it significant
+pricing power. That strength was virtually certain to give See’s major gains in earnings over time. Better yet, these would materialize with only minor amounts of incremental investment. In other words, See’s could be expected to gush cash for decades to come.
+
+The family controlling See’s wanted $30 million for the business, and Charlie rightly said it was worth that much. But I didn’t want to pay more than $25 million and wasn’t all that enthusiastic even at that figure. (A price that was three times net tangible assets made me gulp.) My misguided caution could have scuttled a terrific
 purchase. But, luckily, the sellers decided to take our $25 million bid.
-To date, See’s has earned $1.9 billion pre-tax, with its growth having required added investment of only
-$40 million. See’s has thus been able to distribute huge sums that have helped Berkshire buy other businesses that,
-in turn, have themselves produced large distributable profits. (Envision rabbits breeding.) Additionally, through
-watching See’s in action, I gained a business education about the value of powerful brands that opened my eyes to
-many other profitable investments.
+
+To date, See’s has earned $1.9 billion pre-tax, with its growth having required added investment of only $40 million. See’s has thus been able to distribute huge sums that have helped Berkshire buy other businesses that, in turn, have themselves produced large distributable profits. (Envision rabbits breeding.) Additionally, through watching See’s in action, I gained a business education about the value of powerful brands that opened my eyes to many other profitable investments.
+
 ************
-Even with Charlie’s blueprint, I have made plenty of mistakes since Waumbec. The most gruesome was
-Dexter Shoe. When we purchased the company in 1993, it had a terrific record and in no way looked to me like a
-cigar butt. Its competitive strengths, however, were soon to evaporate because of foreign competition. And I simply
+
+Even with Charlie’s blueprint, I have made plenty of mistakes since Waumbec. The most gruesome was Dexter Shoe. When we purchased the company in 1993, it had a terrific record and in no way looked to me like a cigar butt. Its competitive strengths, however, were soon to evaporate because of foreign competition. And I simply
 didn’t see that coming.
 Consequently, Berkshire paid $433 million for Dexter and, rather promptly, its value went to zero. GAAP
 accounting, however, doesn’t come close to recording the magnitude of my error. The fact is that I gave Berkshire
