@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《FluentPython2ndEdition》-第二部分——to do
+title: 《FluentPython2ndEdition》-第二部分
 category: Read Notes
 tags: [FluentPython2ndEdition, Pythonic]
 comments: true
