@@ -183,7 +183,7 @@ I can promise you that long after I’m gone, Berkshire’s CEO and Board will c
 
 ************
 
-        Overall, Berkshire’s acquisitions have worked out well – and very well in the case of a few large ones. So,
+Overall, Berkshire’s acquisitions have worked out well – and very well in the case of a few large ones. So,
 too, have our investments in marketable securities. The latter are always valued on our balance sheet at their market
 prices so any gains – including those unrealized – are immediately reflected in our net worth. But the businesses we
 buy outright are never revalued upward on our balance sheet, even when we could sell them for many billions of
