@@ -39,9 +39,10 @@ About a year after that board meeting, Berkshire Fine Spinning Associates(伙伴
 
 Meanwhile(同时), the company closed nine plants, sometimes using the liquidation(清算、清理，通常用于商业、金融领域) proceeds(所得款项) to repurchase shares(回购股票). And that pattern(模式、方式) caught my attention(引起了我的注意).
 
+与此同时，公司关闭了九家工厂，有时用清算所得回购股票。这种模式引起了我的注意。
+
 I purchased BPL’s first shares of Berkshire in December 1962, anticipating(期望、预期) more closings and more repurchases. The stock was then selling for $7.50, a wide discount from per-share working capital(营运资本) of $10.25 and book value(账面价值) of $20.20. Buying the stock at that price was like picking up a discarded(废弃的) cigar butt(雪茄屁股) that had one puff(一口) remaining(剩余) in it. Though the stub(残端、残余部分，这里比喻成雪茄屁股) might be ugly and soggy(湿软的、潮湿的), the puff would be free. Once that momentary(短暂的) pleasure was enjoyed, however, no more could be expected.
 
-与此同时，公司关闭了九家工厂，有时用清算所得回购股票。这种模式引起了我的注意。
 1962 年 12 月，我购买了 BPL 的第一批伯克希尔股票，预期会有更多工厂关闭和更多回购。当时股票售价为 7.50 美元，远低于每股 10.25 美元的营运资金和 20.20 美元的账面价值。以那个价格购买股票就像捡起一个只剩一口可抽的丢弃雪茄烟头。尽管烟头可能又丑又湿，但这一口是免费的。然而，享受完那短暂的乐趣后，就不能再期望更多了。
 
 Berkshire thereafter(在此之后) stuck to the script(遵循计划): It soon closed another two plants, and in that May 1964 move, set out to repurchase shares with the shutdown proceeds. The price that Stanton offered was 50% above the cost of our original purchases. There it was – my free puff, just waiting for me, after which I could look else where for other discarded butts.
@@ -398,7 +399,6 @@ Now let’s take a look at the road ahead. Bear in mind that if I had attempted 
 would say to my family today if they asked me about Berkshire’s future.
 
 现在让我们展望一下未来。请记住，如果我在 50 年前试图预测未来，我的某些预测肯定会大错特错。有了这个警告，我将告诉你，如果我的家人今天问我伯克希尔的未来，我会怎么说。
-首先，也是绝对首要的，我相信耐心的伯克希尔股东遭受永久性资本损失的可能性极低，在单一公司投资中几乎是最低的。这是因为我们每股的内在企业价值几乎肯定会随着时间的推移而增长。
 
 * First and definitely foremost, I believe that the chance of permanent capital loss for patient Berkshireshareholders is as low as can be found among single-company investments. That’s because our per-shareintrinsic business value is almost certain to advance over time.
   
@@ -498,8 +498,7 @@ We have an extraordinarily knowledgeable and business-oriented board of director
 
 The shares that they and their families own – which, in many cases, are worth very substantial sums – were purchased in the market (rather than their materializing through options or grants). In addition, unlike almost all other sizable public companies, we carry no directors and officers liability insurance. At Berkshire, directors walk in your shoes.
 
-他们通过持有伯克希尔股票以及成为一家重要企业的优秀管家所获得的满足感来获得回报。
-他们及其家人所拥有的股票 —— 在许多情况下价值非常可观 —— 是在市场上购买的（而不是通过期权或授予获得的）。此外，与几乎所有其他大型上市公司不同，我们没有董事和高级管理人员责任保险。在伯克希尔，董事们设身处地为你们着想。
+他们通过持有伯克希尔股票以及成为一家重要企业的优秀管家所获得的满足感来获得回报。他们及其家人所拥有的股票 —— 在许多情况下价值非常可观 —— 是在市场上购买的（而不是通过期权或授予获得的）。此外，与几乎所有其他大型上市公司不同，我们没有董事和高级管理人员责任保险。在伯克希尔，董事们设身处地为你们着想。
 
 To further ensure continuation of our culture, I have suggested that my son, Howard, succeed me as a non￾executive Chairman. My only reason for this wish is to make change easier if the wrong CEO should ever be employed and there occurs a need for the Chairman to move forcefully. I can assure you that this problem has a very low probability of arising at Berkshire – likely as low as at any public company. In my service on the boards of nineteen public companies, however, I’ve seen how hard it is to replace a mediocre CEO if that person is also Chairman. (The deed usually gets done, but almost always very late.)
 
@@ -582,7 +581,6 @@ Our directors recommended a “no” vote but the company did not otherwise atte
 我们的董事会建议投 “反对” 票，但公司并未试图以其他方式影响股东。尽管如此，98% 的投票股份实际上表示：“不要给我们股息，而是将所有收益再投资。” 我们的股东 —— 无论大小 —— 与我们的管理哲学如此一致，这既令人瞩目又令人欣慰。
 
 I am a lucky fellow to have you as partners.
-
 
 有你们作为合作伙伴，我是个幸运的人。
 
