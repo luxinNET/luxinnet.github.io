@@ -3,13 +3,13 @@ layout: post
 title: Past, Present and Future
 description: "WEB past present future 2014"
 category: Investment
-tags: [Berkshire, essay, Warren Edward Buffett]
+tags: [BerkshireHathaway, Warren E. Buffett]
 comments: true
 ---
 
 ## Berkshire – Past, Present and Future
 
-**In the Beginning**
+### In the Beginning
 
 开端
 
@@ -97,7 +97,7 @@ And now some good news: The northern textile industry is finally extinct(消亡)
 
 现在来说点好消息：北方的纺织业终于彻底消亡了。要是你听说有人看到我在新英格兰地区四处闲逛，你大可不必惊慌了。
 
-**Charlie Straightens Me Out**
+### Charlie Straightens Me Out
 
 查理纠正了我
 
@@ -175,7 +175,6 @@ We’ve also suffered(遭受、受苦、受难) financially when this mistake ha
 
 I’ve yet to see an investment banker quantify this all-important math when he is presenting a stock-for￾stock deal to the board of a potential acquirer. Instead, the banker’s focus will be on describing “customary” premiums-to-market-price that are currently being paid for acquisitions – an absolutely asinine way to evaluate the attractiveness of an acquisition – or whether the deal will increase the acquirer’s earnings-per-share (which in itself should be far from determinative). In striving to achieve the desired per-share number, a panting CEO and his “helpers” will often conjure up fanciful “synergies.” (As a director of 19 companies over the years, I’ve never heard “dis-synergies” mentioned, though I’ve witnessed plenty of these once deals have closed.) Post mortems of acquisitions, in which reality is honestly compared to the original projections, are rare in American boardrooms. They should instead be standard practice.
 
-
 我从未见过投资银行家在向潜在收购方董事会提交换股交易时量化这一至关重要的数学问题。相反，银行家的重点将是描述当前收购中支付的高于市场价格的 “惯例” 溢价 —— 这是一种评估收购吸引力的绝对愚蠢的方式 —— 或者这笔交易是否会增加收购方的每股收益（这本身远不应是决定性因素）。为了达到期望的每股收益数字，气喘吁吁的首席执行官和他的 “助手们” 常常会幻想出奇妙的 “协同效应”。（多年来作为 19 家公司的董事，我从未听到有人提到 “负协同效应”，尽管我在交易完成后目睹了很多这种情况。）在美国的董事会会议室里，对收购进行事后分析，将现实与最初的预测进行诚实比较的情况很少见。它们应该成为标准做法。
 
 I can promise you that long after I’m gone, Berkshire’s CEO and Board will carefully make intrinsic value calculations before issuing shares in any acquisitions. You can’t get rich trading a hundred-dollar bill for eight tens (even if your advisor has handed you an expensive “fairness” opinion endorsing that swap).
@@ -192,7 +191,7 @@ Listening to Charlie has paid off.
 
 听从查理的建议得到了回报。
 
-**Berkshire Today**
+### Berkshire Today
 
 Berkshire is now a sprawling conglomerate, constantly trying to sprawl further.
 
@@ -207,13 +206,11 @@ Since I entered the business world, conglomerates have enjoyed several periods o
 promotion or dubious accounting – and often by all three – these managers drove a fledgling conglomerate’s stock to, say, 20 times earnings and then issued shares as fast as possible to acquire another business selling at ten-or-so times earnings. They immediately applied “pooling” accounting to the acquisition, which – with not a dime’s worth of change in the underlying businesses – automatically increased per-share earnings, and used the rise as proof of managerial genius. They next explained to investors that this sort of talent justified the maintenance, or even the
 enhancement, of the acquirer’s p/e multiple. And, finally, they promised to endlessly repeat this procedure and thereby create ever-increasing per-share earnings.
 
-
 自我进入商业世界以来，企业集团经历了几个极度流行的时期，其中最愚蠢的时期发生在 20 世纪 60 年代末。当时企业集团首席执行官的做法很简单：通过个性、促销或可疑的会计手段 —— 而且常常是三者兼而有之 —— 这些经理人将一家新兴企业集团的股票推高到，比如说，20 倍市盈率，然后尽快发行股票收购另一家市盈率为 10 倍左右的企业。他们立即对收购采用 “权益结合法” 会计处理，这 —— 在基础业务没有一分钱变化的情况下 —— 自动提高了每股收益，并将这种增长作为管理天才的证明。他们接着向投资者解释说，这种才能证明了维持甚至提高收购方市盈率倍数是合理的。最后，他们承诺不断重复这个过程，从而创造出不断增长的每股收益。
 
 Wall Street’s love affair with this hocus-pocus intensified as the 1960s rolled by. The Street’s denizens are always ready to suspend disbelief when dubious maneuvers are used to manufacture rising per-share earnings, particularly if these acrobatics produce mergers that generate huge fees for investment bankers. Auditors willingly sprinkled their holy water on the conglomerates’ accounting and sometimes even made suggestions as to how to further juice the numbers. For many, gushers of easy money washed away ethical sensitivities.
 
 随着 20 世纪 60 年代的推移，华尔街对这种骗局的热爱愈发强烈。华尔街的居民总是愿意在可疑手段被用来制造每股收益增长时暂时放下怀疑，特别是如果这些手段促成的合并能为投资银行家带来巨额费用。审计师们欣然为企业集团的会计处理洒下圣水，有时甚至就如何进一步美化数字提出建议。对许多人来说，轻易得来的大量金钱冲走了道德敏感性。
-
 
 Since the per-share earnings gains of an expanding conglomerate came from exploiting p/e differences, its CEO had to search for businesses selling at low multiples of earnings. These, of course, were characteristically mediocre businesses with poor long-term prospects. This incentive to bottom-fish usually led to a conglomerate’s collection of underlying businesses becoming more and more junky. That mattered little to investors: It was deal velocity and pooling accounting they looked to for increased earnings.
 
@@ -377,7 +374,6 @@ Soon thereafter, it became clear that, like Icarus, Ling had flown too close to 
 
 此后不久，就像伊卡洛斯一样，林飞得离太阳太近了。到 20 世纪 70 年代初，林的帝国正在瓦解，他本人也被从 LTV 中 “分拆” 出去…… 也就是说，被解雇了。
 
-
 Periodically, financial markets will become divorced from reality – you can count on that. More Jimmy Lings will appear. They will look and sound authoritative. The press will hang on their every word. Bankers will fight for their business. What they are saying will recently have “worked.” Their early followers will be feeling very clever. Our suggestion: Whatever their line, never forget that 2+2 will always equal 4. And when someone tells you how old-fashioned that math is --- zip up your wallet, take a vacation and come back in a few years to buy stocks at cheap prices.
 
 金融市场会周期性地脱离现实 —— 这一点你可以相信。会有更多的吉米・林出现。他们会看起来和听起来很权威。媒体会紧追他们的每一句话。银行家们会争夺他们的业务。他们所说的话最近会 “奏效”。他们的早期追随者会觉得自己非常聪明。我们的建议是：无论他们说什么，永远不要忘记 2 + 2 永远等于 4。当有人告诉你这种数学有多过时的时候 —— 拉上你的钱包拉链，去度假，几年后回来以低价购买股票。
@@ -392,7 +388,8 @@ These strengths provide us a wonderful foundation on which to build.
 
 这些优势为我们提供了一个很好的发展基础。
 
-**The Next 50 Years at Berkshire**
+### The Next 50 Years at Berkshire
+
 伯克希尔未来 50 年
 
 Now let’s take a look at the road ahead. Bear in mind that if I had attempted 50 years ago to gauge what was coming, certain of my predictions would have been far off the mark. With that warning, I will tell you what I
@@ -425,7 +422,7 @@ Another warning: Berkshire shares should not be purchased with borrowed money. T
 另一个警告：不应用借来的钱购买伯克希尔股票。自 1965 年以来，有三次我们的股票从高点下跌了约 50%。总有一天，类似的下跌还会发生，而且没人知道什么时候。对投资者来说，伯克希尔几乎肯定是一个令人满意的投资选择。但对于使用杠杆的投机者来说，这可能是一个灾难性的选择。
 
 * I believe the chance of any event causing Berkshire to experience financial problems is essentially zero. We will always be prepared for the thousand-year flood; in fact, if it occurs we will be selling life jackets to the unprepared. Berkshire played an important role as a “first responder” during the 2008-2009 meltdown, and we have since more than doubled the strength of our balance sheet and our earnings potential. Your company is the Gibraltar of American business and will remain so.
-* 
+
 我相信任何导致伯克希尔出现财务问题的事件发生的可能性基本为零。我们将永远为千年一遇的洪水做好准备；事实上，如果洪水发生，我们将向没有准备的人出售救生衣。在 2008 - 2009 年的金融危机中，伯克希尔发挥了重要的 “第一响应者” 作用，自那以后，我们的资产负债表实力和盈利潜力增加了一倍多。你们的公司是美国企业界的直布罗陀，并且将继续如此。
 
 Financial staying power requires a company to maintain three strengths under all circumstances: (1) a large and reliable stream of earnings; (2) massive liquid assets and (3) no significant near-term cash requirements. Ignoring that last necessity is what usually leads companies to experience unexpected problems: Too often, CEOs of profitable companies feel they will always be able to refund maturing obligations, however large these are. In 2008-2009, many managements learned how perilous that mindset can be.
@@ -473,7 +470,7 @@ A CEO who is 64 and plans to retire at 65 may have his own special calculus in e
 一位 64 岁并计划 65 岁退休的首席执行官在评估某一年只有极小发生可能性的风险时，可能有他自己特殊的计算方法。事实上，他可能 99% 的时间都是 “正确” 的。然而，这些几率对我们没有吸引力。我们永远不会用你们托付给我们的资金玩金融俄罗斯轮盘赌，即使这把隐喻的枪有 100 个弹膛且只有一颗子弹。在我们看来，冒着失去你所需要的东西去追求你仅仅想要的东西是疯狂的。
 
 * Despite our conservatism, I think we will be able every year to build the underlying per-share earning power of Berkshire. That does not mean operating earnings will increase each year – far from it. The U.S. economy will ebb and flow – though mostly flow – and, when it weakens, so will our current earnings. But we will continue to achieve organic gains, make bolt-on acquisitions and enter new fields. I believe, therefore, that Berkshire will annually add to its underlying earning power.
-* 
+
 尽管我们保守，但我认为我们每年都能够提升伯克希尔的每股潜在盈利能力。这并不意味着运营收益每年都会增加 —— 远非如此。美国经济会有起伏 —— 尽管大多是增长 —— 当经济疲软时，我们当前的收益也会下降。但我们将继续实现有机增长、进行附加收购并进入新领域。因此，我相信伯克希尔每年都会增加其潜在盈利能力。
 
 In some years the gains will be substantial, and at other times they will be minor. Markets, competition, and chance will determine when opportunities come our way. Through it all, Berkshire will keep moving forward, powered by the array of solid businesses we now possess and the new companies we will purchase. In most years, moreover, our country’s economy will provide a strong tailwind for business. We are blessed to have the United States as our home field.
