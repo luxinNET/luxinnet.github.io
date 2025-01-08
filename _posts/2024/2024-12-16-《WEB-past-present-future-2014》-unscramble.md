@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Past, Present and Future
+title: Berkshire – Past, Present and Future
 description: "WEB past present future 2014"
 category: Investment
 tags: [BerkshireHathaway, Warren E. Buffett]

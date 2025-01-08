@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Past, Present and Future
+title: Charlie Munger – The Architect of Berkshire Hathaway
 description: "Charlie Munger – The Architect of Berkshire Hathaway"
 category: Investment
 tags: [BerkshireHathaway, Charles T. Munger, Warren E. Buffett]
@@ -49,7 +49,7 @@ In the physical world, great buildings are linked to their architect while those
 
 ### BERKSHIRE HATHAWAY INC.
 
-克希尔・哈撒韦公司
+伯克希尔・哈撒韦公司
 
 To the Shareholders of Berkshire Hathaway Inc.:
 

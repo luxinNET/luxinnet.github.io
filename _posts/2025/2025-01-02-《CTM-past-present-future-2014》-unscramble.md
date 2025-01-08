@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Past, Present and Future
+title: Vice Chairman’s Thoughts – Past and Future
 description: "CTM past present future 2014"
 category: Investment
 tags: [BerkshireHathaway, Charles T. Munger]
