@@ -203,7 +203,7 @@ jekyll-archives:
 html_proofer:
   disable_external: true
   allow_hash_href: true
-  ignore_empty_alt: true
-  ignore_urls:
+  empty_alt_ignore: true
+  url_ignore:
     - /tags/
     - /categories/
