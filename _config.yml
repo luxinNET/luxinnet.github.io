@@ -203,12 +203,10 @@ jekyll-archives:
 html_proofer:
   disable_external: true
   allow_hash_href: true
-  ignore_urls:
+  ignore_pattern:
     - /(\/tags\/|\/categories\/).*/
-  ignore_files:
-    - /(\/tags\/|\/categories\/).*/
-  http_status_ignore:
+  ignore_status_codes:
     - 429
     - 403
     - 401
-  empty_alt_ignore: true
+  ignore_empty_alt: true
