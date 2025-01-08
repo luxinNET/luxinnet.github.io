@@ -55,9 +55,8 @@ jobs:
           bundle exec htmlproofer _site \
             --disable-external \
             --allow-hash-href \
-            --ignore-pattern "/(\/tags\/|\/categories\/).*/" \
-            --ignore-status-codes "429,403,401" \
-            --ignore-empty-alt
+            --ignore-empty-alt \
+            --ignore-urls "/tags/,/categories/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
