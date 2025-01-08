@@ -159,7 +159,7 @@ We also hope these favored businesses are run by able and trustworthy managers, 
 
 我们也希望这些受青睐的企业由有能力且值得信赖的经理管理，不过这是一个更难做出的判断，而且伯克希尔也有过不少失望的经历。
 
-In 1863, Hugh McCulloch, the first Comptroller of the United States, sent a letter to all national banks. His instructions included this warning: “Never deal with a rascal under the expectation that you can prevent him from cheating you.” Many bankers who thought they could “manage” the rascal problem have learned the wisdom of Mr. McCulloch’s advice – and I have as well. People are not that easy to read. Sincerity and empathy can easily be faked. That is as true now as it was in 1863. 
+In 1863, Hugh McCulloch, the first Comptroller of the United States, sent a letter to all national banks. His instructions included this warning: “Never deal with a rascal under the expectation that you can prevent him from cheating you.” Many bankers who thought they could “manage” the rascal problem have learned the wisdom of Mr. McCulloch’s advice – and I have as well. People are not that easy to read. Sincerity and empathy can easily be faked. That is as true now as it was in 1863.
 
 1863 年，美国第一任审计长休・麦卡洛克给所有国家银行发了一封信。他的指示中包括这样一个警告：“永远不要和无赖打交道，指望能防止他欺骗你。” 许多认为自己可以 “管理” 无赖问题的银行家已经认识到了麦卡洛克先生建议的智慧 —— 我也是如此。人不是那么容易看透的。真诚和同理心很容易被伪装。现在和 1863 年一样。
 
@@ -344,13 +344,13 @@ Every quarter we issue a press release that reports our summarized operating ear
 每个季度我们都会发布一份新闻稿，以类似于如下所示的方式报告我们的汇总营业收益（或亏损）。以下是全年的汇总：
 
                                                 (in $ millions) 
-                                                单位：百万美元	
+                                                单位：百万美元
                                                 2023    2022 
-Insurance-underwriting【保险承保业务】 ......................$ 5,428   $ (30) 
-Insurance-investment income【保险投资收益】 ................. 9,567   6,484 
-Railroad【铁路业务】 ........................................ 5,087   5,946 
-Utilities and energy【公用事业和能源业务】 ................... 2,331   3,904 
-Other businesses and miscellaneous items【其他业务和杂项】 ...14,937  14,549 
+Insurance-underwriting【保险承保业务】 ......................$ 5,428   $ (30)
+Insurance-investment income【保险投资收益】 ................. 9,567   6,484
+Railroad【铁路业务】 ........................................ 5,087   5,946
+Utilities and energy【公用事业和能源业务】 ................... 2,331   3,904
+Other businesses and miscellaneous items【其他业务和杂项】 ...14,937  14,549
 Operating earnings【营业收益】 ............................. $ 37,350  $30,853
 
 At Berkshire’s annual gathering on May 6, 2023, I presented the first quarter’s results which had been released early that morning. I followed with a short summary of the outlook for the full year: (1) most of our non-insurance businesses faced lower earnings in 2023; (2) that decline would be cushioned by decent results at our two largest non-insurance businesses, BNSF and Berkshire Hathaway Energy (“BHE”) which, combined, had accounted for more than 30% of operating earnings in 2022; (3) our investment income was certain to materially grow because the huge U.S. Treasury bill position held by Berkshire had finally begun to pay us far more than the pittance we had been receiving and (4) insurance would likely do well, both because its underwriting earnings are not correlated to earnings elsewhere in the economy and, beyond that, property-casualty insurance prices had strengthened.
@@ -451,7 +451,7 @@ Beyond that, we have learned – too often, painfully – a good deal about what
 
 除此之外，我们已经 —— 往往是痛苦地 —— 学到了很多关于应该避免哪些类型的保险业务和什么样的人的知识。最重要的教训是，我们的承保人可以是瘦的、胖的、男的、女的、年轻的、老的、外国的或国内的。但他们在办公室里不能是乐观主义者，无论这种品质在生活中通常多么可取。
 
-Surprises in the P/C business – which can occur decades after six-month or one-year policies have expired – are almost always negative. The industry’s accounting is designed to recognize this reality, but estimation mistakes can be huge. And when charlatans are involved, detection is often both slow and costly. Berkshire will always attempt to be accurate in its estimates of future loss payments but inflation – both monetary and the “legal” variety – is a wild card. 
+Surprises in the P/C business – which can occur decades after six-month or one-year policies have expired – are almost always negative. The industry’s accounting is designed to recognize this reality, but estimation mistakes can be huge. And when charlatans are involved, detection is often both slow and costly. Berkshire will always attempt to be accurate in its estimates of future loss payments but inflation – both monetary and the “legal” variety – is a wild card.
 
 P/C 业务中的意外 —— 可能在六个月或一年期保单到期几十年后才出现 —— 几乎总是负面的。这个行业的会计制度旨在认识到这一现实，但估计错误可能很大。而且当涉及到骗子时，发现往往既缓慢又昂贵。伯克希尔将始终努力准确估计未来的赔款支出，但通货膨胀 —— 无论是货币通货膨胀还是 “法律” 通货膨胀 —— 都是一个不确定因素。
 
@@ -463,7 +463,7 @@ Ajit’s achievements since joining Berkshire have been supported by a large cas
 
 阿吉特自加入伯克希尔以来的成就得到了我们各个 P/C 业务中一大批极具才华的保险高管的支持。他们的名字和面孔大多数媒体和公众都不知道。然而，伯克希尔的经理阵容对于 P/C 保险来说，就像库珀斯敦的名人堂入选者对于棒球一样。
 
-Bertie, you can feel good about the fact that you own a piece of an incredible P/C operation that now operates worldwide with unmatched financial resources, reputation and talent. It carried the day in 2023. 
+Bertie, you can feel good about the fact that you own a piece of an incredible P/C operation that now operates worldwide with unmatched financial resources, reputation and talent. It carried the day in 2023.
 
 伯蒂，你可以为拥有一家令人难以置信的 P/C 业务的一部分而感到高兴，这家业务现在在全球运营，拥有无与伦比的财务资源、声誉和人才。它在 2023 年发挥了重要作用。
 奥马哈有什么特别之处？

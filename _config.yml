@@ -199,3 +199,17 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+html_proofer:
+  disable_external: true
+  allow_hash_href: true
+  assume_extension: true
+  url_ignore:
+    - /tags/.*/
+  url_swap:
+    '^/': '/'
+  http_status_ignore:
+    - 999
+    - 429
+    - 403
+    - 401
