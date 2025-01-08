@@ -2,7 +2,8 @@
 
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
+# 添加回 Chirpy 主题
+gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.1"
 
 group :test do
   gem "html-proofer", "~> 3.19.0"
