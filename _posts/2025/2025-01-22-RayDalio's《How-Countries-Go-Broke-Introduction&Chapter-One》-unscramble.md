@@ -7,77 +7,143 @@ tags: [Ray Dalio]
 
 [阅读全文请点击此链接](https://x.com/RayDalio/status/1878840018770210979?t=nRtwAVyUeiwYKOBR8j3EJQ&s=09)
 
-![How Countries Go Broke: Introduction & Chapter One](../.images/20250122113353.jpg)
+![How Countries Go Broke: Introduction & Chapter One](../images/20250122113353.jpg)
 
 The following is an excerpt from an early draft from my new book, How Countries Go Broke, which is available for pre-order here.
 
+以下内容节选自我的新书《国家是如何破产的》初稿，该书可在此处预订。
+
 ## Introduction
+
+引言
 
 **Are there limits to a country’s’ debt and debt growth?**
 
+一个国家的债务及债务增长是否存在极限？
+
 **What will happen to interest rates and all that they affect if government debt growth isn’t slowed?**
+
+如果政府债务增长不减缓，利率及其所影响的一切会发生什么变化？
 
 **Can a big, important country that has a major reserve currency like the US go broke—and, if so, what would that look like?**
 
+像美国这样拥有主要储备货币的重要大国会破产吗？如果会，会是怎样的情形？
+
 **Is there such a thing as a “Big Debt Cycle” that we can track that will tell us when to worry about debt and what to do about it?**
 
+是否存在一种我们能够追踪的 “大债务周期”，它能告知我们何时该担忧债务问题以及如何应对？
+
 **These aren’t just academic questions for academic economists. They are questions that investors, policy makers, and most everyone must answer because the answers will have huge effects on all our well-beings and what we should do. But definitive answers don’t currently exist.**
+这些问题并非仅仅是学术经济学家们探讨的学术问题。投资者、政策制定者以及大多数人都必须回答这些问题，因为答案将对我们所有人的福祉以及我们应采取的行动产生重大影响。但目前尚无确切答案。
 
 At this time, some people believe that there isn't any limit to government debt and debt growth, especially if a country has a reserve currency. That’s because they believe that the central bank of a reserve currency country that has its money widely accepted around the world can always print the money to service its debts. Others believe that the high levels of debt and rapid debt growth are harbingers of a big debt crisis on the horizon, but they do not know exactly how and when the crisis will come—or what its impacts will be.
 
+此时，一些人认为政府债务和债务增长不存在任何限制，特别是对于拥有储备货币的国家而言。这是因为他们相信，其货币在全球被广泛接受的储备货币国家的央行，总能印钞来偿还债务。另一些人则认为，高额债务和快速的债务增长预示着一场重大债务危机即将来临，但他们并不确切知道危机将如何以及何时到来，也不清楚其影响会是什么。
+
 And what about the big, long-term debt cycle? While the “business cycle” is widely acknowledged and some people recognize that it is driven by a short-term debt cycle, that is not true for the big, long-term debt cycle. Nobody acknowledges it or talks about it. I couldn’t find any good studies or descriptions of it in textbooks, and even the world’s leading economists—including those who are now running, or in the past ran, central banks and government Treasuries—didn’t have much to say about this critically important subject when I explored it with them. That is why I did this study and am passing it along.
+
+那么，大的长期债务周期又是怎样的呢？虽然 “商业周期” 已被广泛认可，且有些人认识到它是由短期债务周期驱动的，但对于大的长期债务周期而言并非如此。没有人承认它或谈论它。我在教科书中找不到任何关于它的优质研究或描述，甚至当我与世界顶尖经济学家（包括那些现任或曾任央行及政府财政部要职的人）探讨这个至关重要的主题时，他们对此也没什么可说的。这就是我开展这项研究并将其分享出来的原因。
 
 **Before I get into all that, I should begin by explaining where I’m coming from. I don’t come to this subject as an economist. I come as a global macro investor who for over 50 years has been through many debt cycles in many countries and has had to navigate and understand them well enough to bet on how they would go. I have carefully studied all the big debt cycles over the last 100 years, and superficially studied many more from the past 500 years, so I believe that I understand how to navigate them. Because I am now deeply concerned, I feel a responsibility to pass along this study for others to assess for themselves.**
 
+在深入探讨所有这些内容之前，我应该先说明一下我的出发点。我并非以经济学家的身份来研究这个主题。我是以一名全球宏观投资者的身份介入，50 多年来，我经历了许多国家的诸多债务周期，必须深入了解并驾驭它们，以便对其走向进行押注。我仔细研究了过去 100 年里所有重大债务周期，还粗略研究了过去 500 年里更多的债务周期，所以我相信自己明白如何应对它们。因为我现在深感担忧，所以觉得有责任将这项研究分享出来，让其他人自行评估。
+
 To gain my understanding, I look at many cases like a doctor studies many cases, examining the mechanics behind them to understand the cause/effect relationships that drive their progressions. I also learn from being in these experiences, reflecting on what I learn, writing it up, and having smart people read and challenge it. Then I build systems to place my bets on what I learned and have new experiences. I do that over and over and will do it until I die because I love it. Because my game has been to bet on the markets and because the debt markets drive just about everything, I have been obsessed with studying debt dynamics for decades. I believe that if you understand these dynamics, you can do very well as an investor, businessperson, or policy maker, and if you don’t, you ultimately will be hurt by them.
+
+为了形成自己的理解，我像医生研究众多病例一样，审视大量案例，剖析背后的机制，以理解推动其发展的因果关系。我还从自身经历中学习，反思所学内容，记录下来，然后让有见识的人阅读并提出质疑。接着，我构建体系，依据所学进行投资决策，从而获得新的经验。我反复这样做，并且会一直坚持到离世，因为我热爱这个过程。由于我的工作是对市场进行投资押注，而债务市场几乎驱动着一切，所以几十年来我一直痴迷于研究债务动态。我相信，如果你理解这些动态，作为投资者、商人或政策制定者，你就能表现出色；而如果你不理解，最终将会受到其伤害。
 
 **Through my research, I discovered that there are big, long-term debt cycles that have unfailingly led to big debt bubbles and busts. I saw that only about 20% of the roughly 750 currency/debt markets that have existed since 1700 remain and that all these remaining ones have been severely devalued through the mechanistic process I am going to describe in this study. I saw how this big, long-term debt cycle was described in the Old Testament, how it repeatedly played out in Chinese dynasties over thousands of years, and how time and again it has foreshadowed the fall of empires, countries, and provinces.**
 
+通过研究，我发现存在大的长期债务周期，它无一例外地会导致巨大的债务泡沫与破裂。我看到，自 1700 年以来大约 750 个货币 / 债务市场中，只有约 20% 留存至今，而所有这些留存下来的市场，都通过我将在本研究中描述的机制性过程经历了严重贬值。我看到《旧约》中是如何描述这种大的长期债务周期的，它在数千年间的中国朝代更迭中是如何反复上演的，以及它一次又一次地如何预示着帝国、国家和地区的衰落。
+
 **These Big Debt Cycles have always worked in timeless and universally consistent ways that are not well understood but should be. In this study, I hope to explain how they work with such clarity that my description will serve as a template that can be used to see what is going on with, and what is likely to happen to, money and debt. While I recognize that the Big Debt Cycle template I will describe has not previously been vetted, I am confident it exists because I have made a lot of money using it to bet on how things would go. I am passing it along because I am now at a stage of life in which I want to share what I have learned that I have found of value. You can do what you like with it.**
+
+这些大债务周期的运行方式始终具有永恒性和普遍一致性，尽管未被充分理解，但理应被人们知晓。在本研究中，我希望清晰地阐释它们的运行机制，使我的描述能成为一个模板，用于洞察货币与债务正在发生的状况以及可能发生的情况。虽然我意识到我将描述的大债务周期模板此前未经检验，但我确信它是存在的，因为我利用它对事物走向进行押注并赚了不少钱。我将其分享出来，是因为我现在处于人生的一个阶段，希望分享我所学到的有价值的东西。你可以随意处置它。
 
 Why do I think I understand something that others don’t? I theorize that this is for a few reasons. First, this dynamic is not widely understood because big, long-term debt cycles typically last about one lifetime—roughly 80 years (give or take 25 years)—so we don’t get to learn about them through experience. Second, because we focus so much on what is happening to us at the time it is happening, people overlook the big picture. I also think there are biases against being concerned about too much debt because most people like the spending ability that credit gives them, and it is also true that there have been many warnings about pending debt crises that never happened. Memories of big debt crises like the 2008 global financial crisis and the European debt crisis of the PIIGS countries (Portugal, Italy, Ireland, Greece, and Spain) have faded, and since we have gotten past them, many people assume that policy makers learned how to manage them rather than view these cases as early warnings of bigger crises on the horizon. But whatever the reason, it doesn’t matter exactly why these dynamics are overlooked. I am going to paint a picture of what happens and why, and if there is enough interest in what I’m saying, my template will be assessed and will live or die on its merits.
 
+为什么我认为自己理解了别人所不理解的东西呢？我推测有几个原因。首先，这种动态未被广泛理解，是因为大的长期债务周期通常持续约一生的时间，大致 80 年（上下浮动 25 年），所以我们无法通过自身经历来了解它们。其次，因为我们过于关注当下正在发生在自己身上的事情，从而忽略了全局。我还认为，人们对于担忧过多债务存在偏见，因为大多数人喜欢信贷赋予他们的消费能力，而且确实有许多关于即将到来的债务危机的警告最终并未成真。像 2008 年全球金融危机以及 “欧猪五国”（葡萄牙、意大利、爱尔兰、希腊和西班牙）的债务危机这样重大债务危机的记忆已经淡去，既然我们已经度过了这些危机，许多人就认为政策制定者已经学会了如何应对它们，而不是将这些案例视为更大危机即将来临的早期预警。但无论原因是什么，这些动态为何被忽视并不重要。我将描绘出发生了什么以及为什么会发生，如果人们对我所说的内容有足够兴趣，我的模板将接受评估，并根据其自身价值决定是否站得住脚。
+
 That leads me to a principle:
 
+这就引出了我的一个原则：
+
 * **If we don’t agree on how things work, we won’t be able to agree on what’s happening or what is likely to happen.** For that reason, I need to lay out my picture of how the machine works and try to triangulate with you and other knowledgeable people about it before moving on to look at what’s happening and what might happen.
+* 如果我们在事物的运行机制上无法达成共识，我们就无法就正在发生的事情或可能发生的事情达成一致。基于这个原因，在继续探讨正在发生什么以及可能发生什么之前，我需要阐述我对这个 “机制” 如何运作的看法，并尝试与你和其他有见识的人进行探讨。
 
 At a time when government debt is large and increasing rapidly, it seems to me dangerously negligent to assume that this time will be different from other times without first studying how other cases transpired. It would be like assuming that we will never have a civil war or world war again because they haven’t happened before in our lifetimes without studying the mechanics that brought them about in the past. (By the way, I believe that both the civil war and world war dynamics are also going on today.) As in my other books,[1] I will create a description of the archetypical dynamic and then look at how and why different cases transpired differently so that one can track current cases relative to the template and put into context what’s happening and what’s likely to happen. In that way, you will both see many cases of this happening and get a peek into the future. Comparing what is happening with that template leads me to believe that we are heading into one of those cases in which central governments and central banks will “go broke” in the ways that have happened hundreds of times before and have had big political and geopolitical consequences.
 
+在政府债务规模庞大且增长迅速的当下，在我看来，在未先研究其他案例的发展过程就假定这次会与以往不同，是极其危险且疏忽的。这就好比在未研究过去引发内战或世界大战的机制的情况下，就假定我们这一生中不会再发生内战或世界大战，仅仅因为此前尚未发生过。（顺便说一句，我认为内战和世界大战的动态如今也在发生。）就像我在其他书中所做的那样，我将描述典型的动态，然后研究不同案例为何以及如何以不同方式发展，这样人们就能对照模板追踪当前案例，并将正在发生的事情和可能发生的事情置于相应背景中。这样，你既能看到许多此类案例，又能对未来略窥一二。将正在发生的事情与该模板进行对比，让我相信我们正走向这样一种情况：中央政府和央行将以数百次之前出现过的方式 “破产”，并产生重大的政治和地缘政治后果。
+
 This brings me to an important point.**The Big Debt Cycle is just one of several interrelated forces that together make up what I call the overall Big Cycle. For example, 1) Big Debt Cycles influence and are affected by largely coinciding 2) big cycles of political and social harmony and conflict within countries that are both affected by and affect 3) big cycles of geopolitical harmony and conflict between countries. These cycles in turn are affected by both 4) big acts of nature, like droughts, floods, and pandemics and 5) developments of big new technologies. Combined, these five forces make up the overall Big Cycle of peace and prosperity and conflict and depression.** Because these forces affect each other and practically everything, they must be thought of together. How these forces have worked and interacted and are working and interacting now is covered in much greater detail in my book and video titled Principles for Dealing with the Changing World Order and to a lesser extent in Chapter 17 of this study, which is the concluding chapter. In this study, I will be mostly focusing on the Big Debt Cycle, though we will see many references to the ways in which the Big Debt Cycle interacts with the other forces to create the path that we are on.
+
+这就引出了一个重要观点。大债务周期只是构成我所称的整体大周期的几个相互关联的力量之一。例如，1）大债务周期影响且受大致同步的 2）国家内部政治与社会和谐及冲突的大周期影响，而这两者又都受到并影响 3）国家间地缘政治和谐与冲突的大周期。反过来，这些周期又受到 4）重大自然事件（如干旱、洪水和大流行病）以及 5）重大新技术发展的影响。这五种力量共同构成了和平与繁荣、冲突与萧条的整体大周期。因为这些力量相互影响，且几乎影响一切，所以必须综合考虑它们。这些力量过去是如何运作和相互作用的，现在又是如何运作和相互作用的，在我的书和视频《应对变化中的世界秩序的原则》中有更详细的阐述，在本研究的第 17 章（即结语章）中也有一定程度的涉及。在本研究中，我将主要聚焦于大债务周期，不过我们也会多次提及大债务周期与其他力量相互作用，从而塑造我们所处发展路径的方式。
 
 This study consists of four parts and 17 chapters. Part 1 describes the Big Debt Cycle, at first very simply, then in a more complete and mechanical way, and then with some equations that show the mechanics and help with making projections of what is likely to happen. Part 2 shows what has actually happened across 35 Big Debt Cycle cases, laying out in a detailed template the typical sequence of events that signifies how a cycle is transpiring and shows symptoms that can help identify how far the cycle has progressed. Part 3 reviews the most recent Big Debt Cycle, which started when the new monetary and world orders began in 1944 at the end of World War II and brings it up to the present. In that part, in addition to looking at the Big Debt Cycle and the overall Big Cycle with a focus on the US (because it has been the world’s major reserve currency country and the world’s leading power, thus making it the world’s leading shaper of what one might call the American world order since 1944), I also very briefly describe the Big Cycles of both China and Japan, showing them from the 1860s until now. This will give you a more complete picture of what has happened in the world since 1944 and provide two other Big Debt Cycle cases to look at. Finally, in Part 4, I will peek into the future, looking at what my calculations say about what is required for the US to manage its debt burden, and how the five big forces might unfold in the years ahead.
 
+本研究共分为四个部分，17 章。第一部分描述大债务周期，起初会以非常简洁的方式阐述，接着以更完整、更具机制性的方式展开，随后会借助一些方程式展示其运行机制，并辅助预测可能发生的情况。第二部分呈现 35 个大债务周期案例中的实际情况，通过详细的模板梳理出典型的事件序列，这些序列标志着一个周期的发展过程，同时展示出有助于判断周期进展程度的各种迹象。第三部分回顾最近的大债务周期，该周期始于 1944 年二战结束时新的货币和世界秩序的确立，一直延续到现在。在这部分内容中，除了聚焦美国来审视大债务周期和整体大周期（因为自 1944 年以来，美国一直是世界主要储备货币国家和全球主导力量，因而也是所谓美国世界秩序的主要塑造者），我还会简要描述中国和日本的大周期，呈现它们从 19 世纪 60 年代至今的发展历程。这将让你更全面地了解 1944 年以来世界所发生的事情，并提供另外两个大债务周期案例以供参考。最后，在第四部分，我将展望未来，依据我的计算，探讨美国为应对债务负担所需采取的措施，以及未来几年这五大主要力量可能的发展态势。
+
 Because I recognize that there are different readers who have different levels of expertise and want to give different amounts of time to this and I want to help you get what you want out of this, **I put the most important points in bold so you can read just the most essential stuff and optionally dive into the details that interest you. I put what I believe are timeless and universal principles in italics.** If you are a professional or aspiring professional who is really into economics and markets, I recommend that you read the whole thing because I believe that it will give you a unique perspective that you will enjoy and will help you to be successful in your job. If you are not, I recommend that you just read what is in bold. Also, because I’d love to have a two-way conversation with you to try to get in sync about what’s true and what to do about it, I am working on a few new technologies for doing that, which I will tell you about later.
+
+我深知读者们专业水平各异，愿意投入到本研究的时间也不尽相同。为了帮助大家各取所需， 我将最重要的要点加粗，这样你可以只阅读最关键的内容，若有兴趣，也可深入探究自己感兴趣的细节。我还将我认为具有永恒性和普遍性的原则用斜体标注。 如果你是专业人士，或者有志成为专业人士，且对经济学和市场极为热衷，我建议你通读全文，因为我相信这会为你带来独特的视角，你会从中获得乐趣，且这将有助于你在工作中取得成功。如果你并非如此，我建议你仅阅读加粗部分。另外，因为我很希望能与你展开双向交流，尝试就什么是真实情况以及如何应对达成共识，我正在研究一些新技术来实现这一目标，稍后会向你介绍。
 
 **In the next chapter, I will describe the Big Debt Cycle in just seven pages. If you want to stop there, that’s perfectly fine.**
 
+在下一章，我将仅用七页篇幅描述大债务周期。如果你只想读到这里，完全没问题。
+
 I hope that you will find the study’s analysis helpful.
+
+希望本研究的分析能对你有所帮助。
 
 ## Part 1: Overview of the Big Debt Cycle
 
+第一部分：大债务周期概述
+
 ### Chapter 1: The Big Debt Cycle in a Tiny Nutshell
+
+第 1 章：大债务周期简述
 
 **My goal for this chapter is to convey in seven pages a very brief but complete description of the mechanics of a typical Big Debt Cycle.**
 
+本章的目标是用七页篇幅，简洁而完整地描述典型大债务周期的运行机制。
+
 #### How the Machine Works
 
+机制运行方式
 **Credit is the primary vehicle for funding spending and it can easily be created.[2] Because one person’s spending is another’s earnings, when there is a lot of credit creation, people spend and earn more, most asset prices go up, and most everyone loves it. Paying back debt is much less enjoyable. As a result, central governments and central banks have a bias toward creating a lot of credit. Credit also creates debt that has to be paid back, which has the opposite effect—i.e., when debts have to be paid back, it creates less spending, lower incomes, and lower asset prices, which people don’t like. In other words, when someone (a borrower-debtor) borrows money (called principal) at a cost (an interest rate), the borrower-debtor can spend more money than they have in earnings and savings over the near term. But over the long term, this requires them to pay back (the principal + interest) and when they have to pay it back, it requires them to spend less money than they have. This dynamic is why the credit/spending/debt-paying-back dynamic is inherently cyclical.**
+
+信贷是为支出提供资金的主要手段，且易于创造。[2] 由于一个人的支出就是另一个人的收入，当大量创造信贷时，人们支出和收入增加，大多数资产价格上涨，大多数人都喜闻乐见。而偿还债务就没那么令人愉悦了。因此，中央政府和央行倾向于大量创造信贷。信贷也会产生必须偿还的债务，而偿还债务会产生相反的效果 —— 即当必须偿还债务时，支出减少，收入降低，资产价格下跌，人们并不喜欢这种情况。换句话说，当某人（借款债务人）以一定成本（利率）借入资金（称为本金）时，在短期内，借款债务人的支出可以超过其收入和储蓄。但从长期来看，这就要求他们偿还（本金 + 利息），而当他们必须偿还时，其支出就不得不低于其收入。这种动态变化就是信贷 / 支出 / 偿还债务的动态过程本质上具有周期性的原因。
 
 #### The Short-Term Debt Cycle
 
+短期债务周期
+
 **Everyone who has been around long enough to be affected by it several times should be well-acquainted with the short-term debt cycle. It starts with money and credit being provided readily when economic activity and inflation are lower than desired, and when interest rates are low relative to inflation rates and low in relation to the rates of return on other investments. Those conditions encourage borrowing to spend and invest, which causes asset prices, economic activity, and inflation to pick up until they are higher than desired, at which time money and credit are restrained, and interest rates become relatively high in relation to inflation rates and rates of return on other investments. This leads to less borrowing to spend and invest, which leads to lower asset prices, a slowing of economic activity, and lower inflation, which leads interest rates to come down, money and credit to become easier, and the cycle to begin again. These cycles have typically lasted about six years, give or take three years.**
+
+但凡经历过几次短期债务周期影响的人，都应对其相当熟悉。当经济活动和通货膨胀率低于预期，且利率相对于通货膨胀率较低、相对于其他投资回报率也较低时，货币和信贷供应就会变得宽松。这些条件会刺激借贷用于支出和投资，从而推动资产价格、经济活动和通货膨胀上升，直至高于预期水平。此时，货币和信贷就会受到限制，利率相对于通货膨胀率和其他投资回报率变得相对较高。这就导致借贷用于支出和投资的行为减少，进而资产价格下跌、经济活动放缓、通货膨胀率降低，利率随之下降，货币和信贷再次变得宽松，周期又重新开始。这些周期通常持续约六年，上下浮动三年。
 
 #### Short-Term Debt Cycles Add up to Big, Long-Term Debt Cycles
 
+短期债务周期累积形成大的长期债务周期
+
 **What isn’t paid enough attention is the way in which these short-term debt cycles add up to big, long-term debt cycles. Because credit is a stimulant that creates a high, people want more of it, so there is a bias toward creating it. This leads debt to rise over time, which typically leads to most of the short-term cyclical highs and lows in debt to be higher than the ones before. These add up to create the long-term debt cycle, which ends when it becomes unsustainable. The capacity to take on more debt is different early in the Big Debt Cycle when debt burdens are lower and there is more potential for credit/debt to be able to fund highly profitable endeavors than it is later in the cycle when debt burdens are higher, and lenders have fewer productive options.**
+
+未得到足够重视的是，这些短期债务周期是如何累积形成大的长期债务周期的。由于信贷是一种能带来繁荣的刺激因素，人们渴望更多信贷，所以存在创造信贷的倾向。这使得债务随时间推移而增加，通常导致大多数短期债务周期的高点和低点都高于之前的周期。这些短期周期累积起来，就形成了长期债务周期，当债务变得不可持续时，长期债务周期就会结束。在大债务周期早期，债务负担较低，信贷 / 债务为高利润项目提供资金的潜力更大，此时承担更多债务的能力，要比周期后期债务负担较高、贷方可选择的生产性项目较少时更强。
 
 **In that early part, it is easy to borrow—even to borrow a lot—and pay it back. These early short-term cycles are primarily driven by the previously described availability and economics of borrowing and spending, and also a lingering cautiousness brought about by memories of the pain of the most recent time when money was tight.[3] Early in the Big Debt Cycle, when debts and total debt service are relatively low in relation to incomes and other assets, increases and decreases in credit, spending, debt, and debt service are primarily determined by the previously described incentives with less risk. But late in the Big Debt Cycle, when debts and debt service costs get high relative to income and the value of other assets that can be used to meet one’s debt service obligations, the risks of default are higher. Also, late in the Big Debt Cycle, when there are a lot of debt assets and liabilities relative to income, the balancing act of trying to keep interest rates high enough to satisfy lender-creditors without having them too high for borrower-debtors becomes more challenging. That’s because one person’s debts are another’s assets and both must be satisfied. So, while short-term debt cycles end because of the previously described economic considerations, long-term debt cycles end because the debt burdens are too great to be sustained. Said differently, because it is more enjoyable to borrow and spend, if one isn’t careful, debt and debt service can grow like a cancer, eating up one’s buying power and squeezing out other consumption. This is what makes the long-term Big Debt Cycle.**
 
+在早期阶段，借贷很容易 —— 甚至大量借贷并偿还也不难。这些早期的短期周期主要受前文所述的借贷和支出的可得性及经济因素驱动，同时也受到对近期资金紧张时痛苦记忆所带来的挥之不去的谨慎态度的影响。[3] 在大债务周期早期，相对于收入和其他资产，债务和总偿债额相对较低，信贷、支出、债务和偿债额的增减主要由前文所述的激励因素决定，风险较低。但在大债务周期后期，相对于收入和可用于履行偿债义务的其他资产价值，债务和偿债成本变得很高，违约风险也随之增加。同样在大债务周期后期，相对于收入，存在大量债务资产和负债时，要在维持足够高的利率以满足贷方 - 债权人，同时又不至于让利率过高而影响借方 - 债务人之间取得平衡，变得更具挑战性。这是因为一个人的债务就是另一个人的资产，两者都必须得到满足。所以，虽然短期债务周期因前文所述的经济因素而结束，但长期债务周期的终结是因为债务负担过重而难以为继。换句话说，由于借贷和支出更令人愉悦，如果不小心，债务和偿债额就可能像癌症一样增长，侵蚀购买力，挤压其他消费。这就是长期大债务周期形成的原因。
+
 **Throughout the millennia and across countries, what has driven the Big Debt Cycle and has created the big market and economic problems that go along with it is the creation of unsustainably large amounts of debt assets and debt liabilities relative to the amounts of money, goods, services, and investment assets in existence.**
+
+在过去的数千年里，各个国家中，推动大债务周期并引发与之相关的重大市场和经济问题的，是相对于现有货币、商品、服务和投资资产数量，创造出了过多且难以为继的债务资产和债务负债。
 
 **Said more simply, a debt is a promise to deliver money. A debt crisis occurs when there have been more promises made than there is money to deliver on them. When that happens, the central bank is forced to choose between a) printing a lot of money and devaluing it or b) not printing a lot of money and having a big debt default crisis. In the end, they always print and devalue. Either way—via default or devaluation—the creation of too much debt eventually causes debt assets (e.g., bonds) to be worth less.**
 
+更简单地说，债务是一种交付货币的承诺。当承诺交付货币的数量超过实际可交付的货币数量时，就会发生债务危机。当这种情况发生时，央行被迫在以下两者中做出选择：a）大量印钞并导致货币贬值；b）不大量印钞，从而引发严重的债务违约危机。最终，他们总是选择印钞和贬值。无论哪种方式 —— 通过违约或贬值 —— 过多债务的产生最终都会导致债务资产（如债券）价值降低。
 **While there are variations in how each of these cases plays out, the most important factor is whether the debt is denominated in a currency that the central bank can “print”. But no matter the variation we almost always see that it becomes relatively undesirable to hold the debt assets (i.e., bonds) relative to holding the productive capacity of the economy (i.e., equities) and/or owning other, more stable forms of money (e.g., gold).**
+
+虽然每个案例的发展过程存在差异，但最重要的因素是债务是否以央行能够 “印刷” 的货币计价。但无论有何差异，我们几乎总能看到，相对于持有经济的生产能力（如股票）和 / 或持有其他更稳定的货币形式（如黄金），持有债务资产（即债券）变得相对不那么可取。
 
 To me it is interesting and inappropriate that, when credit rating agencies rate the credit of a central government, they don’t rate the riskiness of its debt losing value. They only rate the risk of default on the debt, which gives the misimpression that all higher-rated debt is a safe storehold of value. Said differently, because central banks can bail out central governments, the riskiness of central governments’ debts are hidden. Creditors would be better served if the rating agencies rated the riskiness of the debt losing value through both default and devaluation. After all, these bonds are supposed to be storeholds of wealth and should be rated as such. As you will see in this study, that is how I look at bonds. For countries with debts denominated in their own currencies (i.e., in a currency they can print), I rate central governments’ debts separately from their central banks to show how risky they are, and I rate the risks of central banks’ debts by considering the risk of the devaluation of money to be as, if not more, probable than a default on government debt.
 
