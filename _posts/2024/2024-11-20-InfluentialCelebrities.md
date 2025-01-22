@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Influential Celebrities——to do
+title: Influential Celebrities
 category: List
 tags: [Elon Must, Mark Rippetoe, 徐霞客, Trump, Munger, Franklin, Dalio, 李大霄, Buffett, 李光耀, Volcker, Ramaswamy, 段永平]
 comments: true
