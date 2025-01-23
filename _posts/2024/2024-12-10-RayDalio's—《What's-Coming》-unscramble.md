@@ -7,7 +7,7 @@ tags: [Ray Dalio, Trump Administration]
 
 [阅读全文请点击此链接](https://x.com/RayDalio/status/1861143344119980145?t=cb06cMIq4p1clz7QlBhREA&s=09)
 
-![What’s Coming: The Changing Domestic and World Orders Under the Trump Administration](/images/RayDalio/rPlR21RMbbuPh.jpg)
+![What’s Coming: The Changing Domestic and World Orders Under the Trump Administration](/Images/RayDalio/rPlR21RMbbuPh.jpg)
 
 ## What’s Coming: The Changing Domestic and World Orders Under the Trump Administration
 

@@ -7,7 +7,7 @@ tags: [Ray Dalio]
 
 [阅读全文请点击此链接](https://x.com/RayDalio/status/1878840018770210979?t=nRtwAVyUeiwYKOBR8j3EJQ&s=09)
 
-![How Countries Go Broke: Introduction & Chapter One](/images/RayDalio/20250122113353.jpg)
+![How Countries Go Broke: Introduction & Chapter One](/Images/RayDalio/20250122113353.jpg)
 
 The following is an excerpt from an early draft from my new book, How Countries Go Broke, which is available for pre-order here.
 
