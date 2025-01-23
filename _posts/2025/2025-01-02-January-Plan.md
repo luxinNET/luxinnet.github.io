@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2024 June plan
-description: 六月份的整体计划，按照周划分
+title: 2025 January plan
+description: 一月份的整体计划，按照周划分
 category: Plan
 tags: [book]
 ---
@@ -61,3 +61,5 @@ tags: [book]
 ### W5
 
 ### End
+
+养成好习惯，拒绝拖延，彻底摆脱，才能获得胜利
