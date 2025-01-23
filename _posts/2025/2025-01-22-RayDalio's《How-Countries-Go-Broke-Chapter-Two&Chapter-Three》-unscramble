@@ -7,7 +7,7 @@ tags: [Ray Dalio]
 
 [阅读全文请点击此链接](https://x.com/RayDalio/status/1878891713538003346?t=rmecL7ZwHCP_pzyPuMAOtQ&s=09)
 
-![How Countries Go Broke: Chapter Two & Chapter Three](./images/20250122122407.jpg)
+![How Countries Go Broke: Chapter Two & Chapter Three](/images/RayDalio/20250122122407.jpg)
 
 The following is an excerpt from an early draft from my new book, How Countries Go Broke, which is available for pre-order here.
 
@@ -90,7 +90,7 @@ As mentioned, **goods, services, and investment assets can be bought with either
 
 **In other words, since the price of any good, service, or financial asset equals the total amount spent by buyers ($) divided by the total quantity sold by sellers (Q), if you know total spending (total $) and you know the total quantity sold (total Q), you will know the price and everything else you need to know. That is indisputably how it is, so it is indisputable that the best way to estimate the price is to estimate the total spending and divide it by the total quantity sold. And what is the best way to estimate these things? It is to understand the motivations of the buyers and sellers.** All buyers have their own reasons for spending the amounts of money that they are spending to get the quantity they are buying, and all sellers have their own reasons for selling the quantity they are selling to get the money they’re getting. **What I’m saying is conveyed in the conceptual diagram below.**
 
-![Price = Total & / Total Q](./images/20250122122558.jpg)
+![Price = Total & / Total Q](/images/RayDalio/20250122122558.jpg)
 
 **While this might look and sound complicated, it’s really not. For each product, the buyers and sellers have their reasons for making those purchases and sales, and it’s pretty easy to determine who the main buyers and sellers are and what motivates them. If you can figure out major buyers' reasons for spending and you know the major sellers' reasons for selling, you can pretty accurately predict their actions, and thus the price.**
 
@@ -193,7 +193,7 @@ These cycles move markets and economies around an upward-sloping trend line of r
 
 Over a short period of time (i.e., 1-10 years) the short-term debt cycle is dominant. Over a long period of time (i.e., 10 years and beyond) the long-term debt cycle and the upward-sloping trend line in productivity have much bigger effects. Conceptually, the way this dynamic transpires looks like this to me:
 
-![Productivity](./images/20250122122852.jpg)
+![Productivity](/images/RayDalio/20250122122852.jpg)
 
 **What separates a sustainable debt cycle from an unsustainable one is whether the debt creates enough income or more to pay for the debt service. If incomes fail to grow as quickly as debt and debt service, the ratio of debts to incomes will mechanically grow, which will require increased borrowing to serve debt as well as to spend. The cycle goes from low to high to unsustainably high debt and debt service relative to incomes. A sure sign of moving toward a debt crisis is when there is a large and rising amount of borrowing that is being used to pay for the debt service.**
 
@@ -286,7 +286,7 @@ Measuring Debt Burdens in Numbers
 What follows are the mathematical relationships for measuring these indicators. These are just the commonsense constraints on the amount of debt an entity can have, expressed in equations which are the same constraints that you can have expressed in words. To help you understand them, you might relate to them the same way you relate to your own debt constraints. I will explain the rules and include a few helpful rules of thumb. The pages that follow will explain each of these with examples. Not only can these relationships help one to identify debt problems, but they can be used to help policy makers see how to fix them and help market participants position themselves well. Feel free to skip this and come back if it’s more helpful to see examples first and then the math.
 1)      Future debts relative to future income. The formula to estimate this is:
 
-![Future debt / Future Revenue](./images/20250122123300.jpg)
+![Future debt / Future Revenue](/images/RayDalio/20250122123300.jpg)
 In words: Future debt relative to revenue is a function of 1) spending more or less than one makes in revenue, 2) the “compounding” of one’s existing debts, and 3) revenue growth. As one’s expenses grow relative to one’s revenue, one is forced to borrow more to finance the spending, which increases new borrowing (first numerator term). As interest rates rise, existing debts grow faster (second numerator term). As revenues grow, incomes grow relative to debts, so the ratio of debt to revenue falls (denominator term).
 Debt/income is a good indicator of risk because the larger it is, the riskier and the more burdensome the debt is, all else being equal. For example, the more debt there is, the more risk there is that the debt won’t be rolled over and the more difficult it is for the central bank to keep interest rates low enough to satisfy the borrower-debtors without having them too high for the lender-creditor. You can probably already see that, in addition to the level of debt/income mattering, the interest rate, income growth rate, and primary deficit (expenses excluding interest versus revenue) matter a lot to how debt burdens evolve.
 We can also reconfigure this formula to solve for ways to keep the debt-to-income ratio the same. We will show a few different examples of this at the end of this chapter.
@@ -297,14 +297,14 @@ Principal payments are the amount of debt that is coming due each year that must
 3)      Nominal interest rates relative to a) inflation rates and b) nominal income growth rates (i.e., inflation plus real growth):
 The expected level of nominal interest rates relative to nominal growth rates tells us how debt and debt service is likely to grow or shrink. Below, we show the formula for the interest rate that would keep debt levels and interest debt service flat relative to revenue. Note that this is based on the first formula, just reconfiguring that formula to give us the required interest rate to keep debts flat relative to revenue.
 
-![Interest Rate Requlred to Keep Debt Flat](./images/20250122123538.jpg)
+![Interest Rate Requlred to Keep Debt Flat](/images/RayDalio/20250122123538.jpg)
 To walk through this in words, if the primary deficit is zero (i.e., current expenses before interest = current revenue), debts will stay flat if the interest rate is equal to the revenue growth rate. If the primary deficit is 5% of the current debt level, interest rates would need to be 5% below the revenue growth rate.
 The intuition here is that if the interest rates are equal to revenue growth, debts will compound at the same rate that income is growing. If the government is also borrowing, debts need to compound slower than income, so interest rates need to be below revenue growth rates.
 As interest rates rise relative to revenue growth rates, debts will grow relative to incomes because existing debts will compound faster than revenue is growing, and interest debt service costs will grow even faster because both the debt level will grow and the interest rate will be rising, and interest costs are the product of these two inputs. Similarly, as interest rates fall, debt levels will grow less quickly and interest debt service costs will grow even less or shrink. (This is, for instance, what has happened in Japan over the last 20 years. I will show this in more detail in Chapter 14).
 You can probably see that, just as you can solve for the interest rate required to keep debts flat, you can also solve for the deficit or surplus required, revenue growth required, and so on. If you flip to the end of this chapter, I show you what these numbers look like for the US and Japan today.
 4)      Debts and debt service relative to savings (e.g., reserves): Just as we can estimate debt burdens relative to income, we can estimate them relative to savings—simply by looking at the level and change in savings rather than the level and change in incomes. The formula to estimate this is as follows:
 
-![Future debt / Future Savings](./images/20250122123746.jpg)
+![Future debt / Future Savings](/images/RayDalio/20250122123746.jpg)
 
 These formulas are very similar to (1) and (2), so I will not fully walk through them in words. The difference is that we are looking at debts and debt service relative to savings. If one has large debts but very large savings, it is less likely that the debt burdens are concerning, because one can pay the debt service and pay back part of the debts using the savings. It creates a buffer.
 If one is consistently running deficits, and the expected surplus is negative, you can see that debts and debt service will quickly grow relative to savings, creating a more concerning setup.
@@ -320,22 +320,22 @@ For reference, the US government’s debt to money coming in (mostly tax income)
 If we assume that interest rates equal income growth but use the actual projected primary deficit for the US (i.e., the actual gap between non-interest expenses and income), the US government’s debt-to-income is projected to rise by about 150%, from 580% to 730% over the next 10 years. This would also lead to a proportional increase in the interest expense and debt service burden.
 The table below shows debt levels 10 years forward for various starting debt levels and deficits. The second table shows the change relative to the starting debt level. You can see that as the starting debt level rises, and as deficits become larger, the expected debt level at the end gets higher.
 
-![Debt-to-Income after 10yrs](./images/20250122124105.jpg)
+![Debt-to-Income after 10yrs](/images/RayDalio/20250122124105.jpg)
 
-![10-Year Change In Debt(%Income)](./images/20250122124117.jpg)
+![10-Year Change In Debt(%Income)](/images/RayDalio/20250122124117.jpg)
 
 When going through these numbers, you might keep in mind that at the time of this writing, the US, Japanese, Chinese, French, German, and UK numbers are approximately as follows.
 
-![Central](./images/20250122124126.jpg)
+![Central](/images/RayDalio/20250122124126.jpg)
 
 Example 2: The Effects of Nominal Interest Rates Minus Nominal Income Growth Rates on Debt-to-Income Ratios
 When interest rates are higher than income growth rates, the existing debt grows relative to incomes because the debt compounds faster than incomes grow.
 The tables below illustrate how this works. Previously, we showed how debt grows for different starting debt levels and deficits. This time, we are assuming a starting deficit of 35% of income (using the CBO’s projected primary deficit over the next decade).[16] The rows below are still different starting debt levels. The columns now show the nominal interest rate minus the nominal income growth rate. The CBO projects that, over the next decade, effective interest rates will average 3.4% and the US will have 3.8% nominal growth. The difference is -0.4%, so this would leave the US around the red-boxed area below.
 The first table below shows the levels of debt to income 10 years from now based on these assumptions, and the second table shows the change in debt to income over the 10 years. As interest rates get higher than growth, debt levels grow faster. Also, as debts get higher, the impact of high interest rates gets worse much faster.
 
-![Debt-to-Income after-10-yrs](./images/20250122124556.jpg)
+![Debt-to-Income after-10-yrs](/images/RayDalio/20250122124556.jpg)
 
-![10-Year Change In Debt(%Income)](./images/20250122124713.jpg)
+![10-Year Change In Debt(%Income)](/images/RayDalio/20250122124713.jpg)
 Previously, we forecast that with current debts and deficits, US debt levels will rise from 580% to 730% of income. If we also incorporate projected interest rates relative to nominal growth, we’d expect US debt levels to rise to 679% of income (assuming taxes stay a constant share of GDP). You get the idea.
 Since interest rates are projected to be slightly below nominal growth, this adjustment doesn’t change our debt outlook much for the US today. But you can see that if the central bank wanted to help the central government keep its debt burdens more manageable, it could push interest rates to further below nominal growth by buying the government bonds, which would cause debt burdens to grow much slower, all else equal. Of course, that wouldn’t be good for the lender-creditors holding the debt assets because they would get a lower nominal interest rate and a lower real interest rate than they would have gotten. I suspect that you are beginning to get the picture of how this dynamic works and has worked in the past—e.g., why central banks created such low nominal rates (near 0%) and such negative real interest rates by printing money and buying government debt—and what is most likely to take place in the future if the current path isn’t altered. More specifically, if debt growth remains as projected, central banks will have to push real interest rates lower, which will make debt assets less attractive for lender-creditors.
 In an economy, there are many interrelated drivers that change interdependently. It’s like a Rubik’s Cube, in which changing one part of the cube—one driver in the grids shown previously—causes changes to the other parts. It gets complicated to understand how these drivers interrelate and to project scenarios. To help illustrate this, we created a simple model to walk through one scenario for the next decade.
@@ -346,7 +346,7 @@ Markets must clear, so this means that interest rates will go up until someone i
 If interest rates stayed flat, the government would have ended Year 10 with debts at 679% of income and interest at 22% of income. Here, relative to income, we end with debts at 898%, interest at 68%, and total debt service (including principal payments) of 353%. Of course, if interest rates are going up because the debts are unsustainable, they’ll only go up more as debts rise and become even more unsustainable. And at the same time, the high interest rates are likely constricting income growth, increasing the challenge of debt sustainability. Of course, the worst-case scenario is one where a significant additional amount of debt assets is sold (i.e., to fund a war or social benefits in a recession), which would drive interest rates up a lot more.
 A Toy Model: Interest Rates Spiral Higher
 
-![Interest Rates Rise By 50bps/ Year](./images/20250122124950.jpg)
+![Interest Rates Rise By 50bps/ Year](/images/RayDalio/20250122124950.jpg)
 
 A government can prevent this spiral of rising rates by reducing its debt burdens. I laid this out in more detail in my book Principles for Navigating Big Debt Crises, but, to reiterate, there are four ways to reduce debt burdens for a government:
 Austerity (i.e., spending less), which doesn’t work because one person’s spending is another’s person’s earnings, so austerity causes a self-reinforcing deflationary contraction.
@@ -364,13 +364,13 @@ Rather than allowing interest rates to spiral upward to generate sufficient dema
 Mechanically, to purchase these debt assets—i.e., monetize the government debt—the central bank prints money (by creating new reserves/cash) and gives private players that money in exchange for the bonds. This increases the money supply (M0). In this example, let’s assume that the money supply starts at $5.6 trillion—so 110% of the starting government income—roughly where it is today in the United States. In our example, as the central bank prints more and more to cover government shortfalls, the money supply balloons.
 The Central Bank Steps In
 
-![Central Bank Buys Bonds](./images/20250122125203.jpg)
+![Central Bank Buys Bonds](/images/RayDalio/20250122125203.jpg)
 This is a rough example, but you can see the general contours of how this works for real economies. As an economy needs lower and lower interest rates to keep debt burdens manageable, there is less and less private demand for the debt at those lower interest rates, which requires the central bank to step in. The more the central bank steps in, the more it is forced to increase the money supply, which devalues money and makes holding debt less desirable.
 That is because, all else being equal, central bank money and credit creation lowers the value of money, which increases inflation and currency weakness. The relationship is not precise and depends on how exactly the printed money is transmitted through the economy. Lowering interest rates and increasing the supply of money lowers the attractiveness of the currency, which makes holding the debt denominated in that currency unattractive.
 In the tables below, I wanted to give you a sense of how much money gets printed and how it affects the currency.
 In the first table, the rows represent different starting debt-to-income levels for a government, and the columns represent how many bonds private players are willing to purchase at current interest rates. As a government has more of a debt problem, and as private players are willing to hold less of the debt, the money stock increases more. The red box reflects the scenario laid out above, where the central bank buys $7.7 trillion of bonds, increasing the money stock from $5.6 trillion to $13.5 trillion.
 
-![10yrs-Change in Money() stock(% Govt Income)](./images/20250122125336.jpg)
+![10yrs-Change in Money() stock(% Govt Income)](/images/RayDalio/20250122125336.jpg)
 
 Buying up bonds and increasing the money supply is stimulative and puts downward pressure on the currency in two ways:
 Mechanically, pushing down interest rates usually causes the currency to sell off. Why? To spell out the mechanics:
@@ -381,7 +381,7 @@ My next point will be too technical for some and helpfully technical for others,
 Also, the printed money can directly flow out of the currency, creating a selling pressure in the currency. That is, as a central bank buys bonds and gives other players cash, there is a chance that they use that cash to buy other currencies, rather than holding it or buying assets/spending in the same economy.
 In the next table, we show a range of outcomes for how this might work. The columns again reflect different willingness to lend by private players (as you go to the right, private players are less willing to lend to the government). The rows reflect how sensitive the currency is to the money supply. As the market sees a currency as a worse and worse store of value, we’d expect the currency to become more sensitive to the money supply, because other players will be less willing to hold it. For example, let’s assume that printing 1% of GDP in money led to ~1% currency weakness, then in the example above, we’d expect a ~15% currency depreciation. As the currency becomes more sensitive to the amount of money (i.e., M0), and as the private sector becomes less willing to lend, we’d expect to see more and more currency weakness.
 
-![10yr Expected Change in FX](./images/20250122125529.jpg)
+![10yr Expected Change in FX](/images/RayDalio/20250122125529.jpg)
 
 What level of interest rates can make debt burdens affordable for a country?
 In these examples, we looked at how debts can compound to become unsustainable. I also wanted to show you the numbers around how debts can be managed sustainably.
@@ -393,10 +393,10 @@ Let's look at these things and also look at how they would have worked in the pa
 Formula For Determining Future Debt Burdens
 As a reminder, the equation below shows the drivers of future levels of debt and debt service relative to incomes. This is more fully explained at the start of this chapter.
 
-![Future Debt / Future Revenue](./images/20250122125727.jpg)
+![Future Debt / Future Revenue](/images/RayDalio/20250122125727.jpg)
 In the table below, I use this formula to estimate what interest rates would stabilize debt burdens relative to incomes for the US today. We also show how each of the other available “levers” would have to change in order to stabilize debt burdens. You can see that to stabilize government debt burdens, the US would either need to see nominal interest fall to about 1%, see nominal economic growth average about 6% (2.5% additional inflation above the 3.8% nominal growth projected by the CBO), or raise government revenue (i.e., raising taxes) by 11%. Of course, each one of these paths would be intolerably too large so it will take the right combination of lesser amounts of these to successfully achieve the goal. In Chapter 16, “My 3% Solution: How the US Could Stabilize Its Debt Burden,” I show what I believe the best combinations would be to achieve the goal of limiting debt burdens and risks in a very tolerable way.
 
-![How Can the US Stabilize Debt-to-lncome in the Next 10 Years?](./images/20250122125754.jpg)
+![How Can the US Stabilize Debt-to-lncome in the Next 10 Years?](/images/RayDalio/20250122125754.jpg)
 The views expressed in this article are mine and not necessarily Bridgewater’s.
 The information provided herein is not intended to provide a sufficient basis on which to make an investment decision and investment decisions should not be based on simulated, hypothetical, or illustrative information that have inherent limitations. Unlike an actual performance record simulated or hypothetical results do not represent actual trading or the actual costs of management and may have under or overcompensated for the impact of certain market risk factors. Bridgewater makes no representation that any account will or is likely to achieve returns similar to those shown. The price and value of the investments referred to in this research and the income therefrom may fluctuate. Every investment involves risk and in volatile or uncertain market conditions, significant variations in the value or return on that investment may occur. Investments in hedge funds are complex, speculative and carry a high degree of risk, including the risk of a complete loss of an investor’s entire investment. Past performance is not a guide to future performance, future returns are not guaranteed, and a complete loss of original capital may occur. Certain transactions, including those involving leverage, futures, options, and other derivatives, give rise to substantial risk and are not suitable for all investors. Fluctuations in exchange rates could have material adverse effects on the value or price of, or income derived from, certain investments.
 Bridgewater research utilizes data and information from public, private, and internal sources, including data from actual Bridgewater trades. Sources include BCA, Bloomberg Finance L.P., Bond Radar, Candeal, CBRE, Inc., CEIC Data Company Ltd., China Bull Research, Clarus Financial Technology, CLS Processing Solutions, Conference Board of Canada, Consensus Economics Inc., DataYes Inc, Dealogic, DTCC Data Repository, Ecoanalitica, Empirical Research Partners, Entis (Axioma Qontigo Simcorp), EPFR Global, Eurasia Group, Evercore ISI, FactSet Research Systems, Fastmarkets Global Limited, the Financial Times Limited, FINRA, GaveKal Research Ltd., Global Financial Data, GlobalSource Partners, Harvard Business Review, Haver Analytics, Inc., Institutional Shareholder Services (ISS), the Investment Funds Institute of Canada, ICE Derived Data (UK), Investment Company Institute, International Institute of Finance, JP Morgan, JSTA Advisors, M Science LLC, MarketAxess, Medley Global Advisors (Energy Aspects Corp), Metals Focus Ltd, Moody’s ESG Solutions, MSCI, Inc., National Bureau of Economic Research, Neudata, Organisation for Economic Cooperation and Development, Pensions & Investments Research Center, Refinitiv, Rhodium Group, RP Data, Rubinson Research, Rystad Energy, S&P Global Market Intelligence, Scientific Infra/EDHEC, Sentix GmbH, Shanghai Metals Market, Shanghai Wind Information, Smart Insider Ltd., Sustainalytics, Swaps Monitor, Tradeweb, United Nations, US Department of Commerce, Verisk Maplecroft, Visible Alpha, Wells Bay, Wind Financial Information LLC, Wood Mackenzie Limited, World Bureau of Metal Statistics, World Economic Forum, and YieldBook. While we consider information from external sources to be reliable, we do not assume responsibility for its accuracy.
