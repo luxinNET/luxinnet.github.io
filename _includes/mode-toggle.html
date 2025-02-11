@@ -1,0 +1,92 @@
+<!--
+  Switch the mode between dark and light.
+-->
+
+<i class="mode-toggle fas fa-adjust"></i>
+
+<script type="text/javascript">
+  class ModeToggle {
+    static get MODE_KEY() { return "mode"; }
+    static get DARK_MODE() { return "dark"; }
+    static get LIGHT_MODE() { return "light"; }
+    static get ID() { return "theme-toggle" }
+
+    constructor() {
+      this.initBeijingTime();
+      this.bindClick();
+    }
+
+    initBeijingTime() {
+      const currentHour = new Date().getUTCHours() + 8; // 转换为北京时间
+      const isDayTime = currentHour >= 6 && currentHour < 18;
+      
+      if (!this.hasMode) { // 如果用户没有手动设置过模式
+        if (isDayTime) {
+          this.setLight();
+        } else {
+          this.setDark();
+        }
+      }
+
+      // 每分钟检查一次时间
+      setInterval(() => {
+        const hour = new Date().getUTCHours() + 8;
+        const isDay = hour >= 6 && hour < 18;
+        
+        if (!this.hasMode) { // 只在用户没有手动设置时自动切换
+          if (isDay && this.isDarkMode) {
+            this.setLight();
+          } else if (!isDay && !this.isDarkMode) {
+            this.setDark();
+          }
+        }
+      }, 60000); // 每分钟检查一次
+    }
+
+    bindClick() {
+      document.querySelector(`.mode-toggle`).addEventListener('click', () => {
+        if (this.hasMode) {
+          if (this.isDarkMode) {
+            this.setLight();
+          } else {
+            this.setDark();
+          }
+        } else {
+          if (this.isDarkMode) {
+            this.setLight();
+          } else {
+            this.setDark();
+          }
+        }
+      });
+    }
+
+    get isDarkMode() {
+      return (!this.hasMode && document.documentElement.getAttribute('data-mode') === 'dark') ||
+             (this.hasMode && this.mode === ModeToggle.DARK_MODE);
+    }
+
+    get mode() {
+      return localStorage.getItem(ModeToggle.MODE_KEY);
+    }
+
+    get hasMode() {
+      return this.mode !== null;
+    }
+
+    setDark() {
+      document.documentElement.setAttribute('data-mode', ModeToggle.DARK_MODE);
+      localStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.DARK_MODE);
+    }
+
+    setLight() {
+      document.documentElement.setAttribute('data-mode', ModeToggle.LIGHT_MODE);
+      localStorage.setItem(ModeToggle.MODE_KEY, ModeToggle.LIGHT_MODE);
+    }
+  }
+
+  /* 页面加载完成后初始化 */
+  document.addEventListener('DOMContentLoaded', () => {
+    new ModeToggle();
+  });
+</script> 

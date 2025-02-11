@@ -1,9 +1,8 @@
 ---
-layout: post
-title: 2024 Annual plan
-category: Plan
-tags: [plan]
-top: 1
+title: "Annual Plan"
+date: 2024-02-01
+categories: [计划]
+tags: [annual, plan]
 comments: true
 ---
 
