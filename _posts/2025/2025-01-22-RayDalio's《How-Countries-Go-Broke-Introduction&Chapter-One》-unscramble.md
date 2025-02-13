@@ -2,7 +2,7 @@
 layout: post
 title: "How Countries Go Broke: Introduction & Chapter One"
 category: Investment
-tags: [Ray Dalio]
+tags: [Ray Dalio, book]
 comments: true
 ---
 

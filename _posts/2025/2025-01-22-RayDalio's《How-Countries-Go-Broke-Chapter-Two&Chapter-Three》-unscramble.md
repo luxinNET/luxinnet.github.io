@@ -2,7 +2,7 @@
 layout: post
 title: "How Countries Go Broke: Chapter Two & Chapter Three"
 category: Investment
-tags: [Ray Dalio]
+tags: [Ray Dalio, book]
 comments: true
 ---
 
