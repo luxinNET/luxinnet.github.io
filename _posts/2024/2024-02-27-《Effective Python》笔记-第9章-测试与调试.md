@@ -3,6 +3,7 @@ layout: post
 title: 《Effective Python》笔记-第9章 测试与调试
 category: Read Notes
 tags: [Effective Python]
+comments: true
 ---
 
 

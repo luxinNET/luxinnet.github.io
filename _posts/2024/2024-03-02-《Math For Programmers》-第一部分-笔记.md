@@ -3,6 +3,7 @@ layout: post
 title: 《Math for Programmers》笔记-第一部分 向量和图形
 category: Read Notes
 tags: [Math for Programmers]
+comments: true
 ---
 
 ## 通过代码学数学

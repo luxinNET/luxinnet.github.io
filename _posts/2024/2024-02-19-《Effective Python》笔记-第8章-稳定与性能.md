@@ -3,6 +3,7 @@ layout: post
 title: 《Effective Python》笔记-第8章 稳定与性能
 category: Read Notes
 tags: [Effective Python]
+comments: true
 ---
 
 ## 第六十五条：合理利用try/except/else/finally结构中的每个代码块

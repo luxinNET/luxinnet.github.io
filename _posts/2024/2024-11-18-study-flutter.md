@@ -4,6 +4,7 @@ title: study-flutter——to do
 description: flutter学习日记
 category: study
 tags: [study, flutter]
+comments: true
 ---
 
 2024年11月18日，突发奇想，学习一下谷歌的flutter框架。

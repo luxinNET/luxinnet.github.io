@@ -3,6 +3,7 @@ layout: post
 title: 《Effective Python》笔记-第10章 协作开发
 category: Read Notes
 tags: [Effective Python]
+comments: true
 ---
 
 

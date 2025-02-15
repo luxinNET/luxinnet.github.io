@@ -3,6 +3,7 @@ layout: post
 title: What's Coming：The Changing Domestic and World Orders Under the Trump Administration
 category: Investment
 tags: [Ray Dalio, Trump Administration]
+comments: true
 ---
 
 [阅读全文请点击此链接](https://x.com/RayDalio/status/1861143344119980145?t=cb06cMIq4p1clz7QlBhREA&s=09)

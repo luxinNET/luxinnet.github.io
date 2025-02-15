@@ -3,6 +3,7 @@ layout: post
 title: 《Effective Python》笔记-第6章 元类与属性
 category: Read Notes
 tags: [Effective Python, Python @property, Python WeakKeyDictionary]
+comments: true
 ---
 
 ## 第四十四条：用纯属性与修饰器取代旧式的setter与getter方法

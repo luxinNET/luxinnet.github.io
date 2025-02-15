@@ -3,6 +3,7 @@ layout: post
 title: 《Math for Programmers》笔记-第一部分 向量和图形-练习
 category: Read Exercises
 tags: [Math for Programmers]
+comments: true
 ---
 
 ## 二维向量绘图

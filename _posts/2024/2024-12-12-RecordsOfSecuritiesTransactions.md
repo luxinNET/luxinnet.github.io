@@ -3,6 +3,7 @@ layout: post
 title: Records of securities transactions——to do
 category: Investment
 tags: [securities transactions]
+comments: true
 ---
 
 证券交易标准：

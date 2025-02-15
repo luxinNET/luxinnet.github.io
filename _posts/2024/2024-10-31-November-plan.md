@@ -4,6 +4,7 @@ title: 2024 November plan
 description: 十一月份的整体计划
 category: Plan
 tags: [book]
+comments: true
 ---
 
 ## Totol
