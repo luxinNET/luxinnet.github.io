@@ -1,6 +1,6 @@
 ---
 layout: post
-title: study-flutter——to do
+title: study-flutter——discard
 description: flutter学习日记
 category: study
 tags: [study, flutter]

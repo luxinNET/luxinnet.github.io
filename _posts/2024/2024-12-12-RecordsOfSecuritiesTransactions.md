@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Records of securities transactions——to do
+title: Records of securities transactions——discard
 category: Investment
 tags: [securities transactions]
 comments: true
