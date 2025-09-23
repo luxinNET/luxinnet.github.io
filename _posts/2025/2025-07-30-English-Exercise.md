@@ -12,11 +12,19 @@ comments: true
 
 Ireland is the best place in the world to live in for 2005, according to a life quality ranking that appeared in Britain’s Economist magazine 1ast week.
 
-The ambitious attempt to compare happiness levels around the world is based on the principle that wealth is not the only measure of human satisfaction and well - being．
+根据上周《英国经济学人》杂志的生活质量排名，爱尔兰被评为2005年世界上最适合居住的地方。
+
+The ambitious attempt to compare happiness levels around the world is based on the principle that wealth is not the only measure of human satisfaction and well-being．
+
+这个有野心的尝试比较全球各地的幸福感基于一个原则：财富不是衡量人类满足感和幸福感的唯一方式。
 
 The index of 111 countries uses data on incomes，health，unemployment，climate，political stability, job security, gender equality as well as what the magazine calls“freedom，family and community life”．
 
+这个指数涵盖了111个国家的收入、健康、失业率、气候、政治稳定、工作保障、性别平等以及这个杂志所称的“自由、家庭和社区生活”的数据。
+
 Despite the bad weather, troubled health service，traffic congestion (拥挤)，gender inequality, and the high cost of living．Ireland scored an impressive 8.33 points out of 10．
+
+因为有坏天气，艰难的医疗服务，交通拥堵，性别平等问题和高生活消费。爱尔兰上升了8.33分出了前十
 
 That put it well ahead of second - place Switzerland，which managed 8.07．Zimbabwe, troubled by political insecurity and hunger，is rated the gloomiest (最差的)，picking up only 3. 89points.
 
