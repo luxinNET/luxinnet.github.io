@@ -10,11 +10,7 @@ comments: true
 
 ## The Financial Times's Mischaracterizations of What I Said
 
-## 《金融时报》对我所说的话的错误描述
-
 I did an interview with the FT in which, for accuracy, I had them submit their questions in writing and I replied in writing. They then did not publish the exchange and instead published mischaracterizations of what I said. For accuracy, I am providing the actual questions and answers here for you to read. I strive to be as accurate as I can be in a world full of harmful conflict and partisanship in which distortions and sensationalism are threats to everyone’s well-being. Sometimes those in the media help, and sometimes they have their own other agendas. For me, the choice is between not saying anything and playing it safe or trying to speak in an analytical, non-partisan way and risk being politicized. To me, the greater risk is in not speaking up. If you want to see what I was asked and what I said, here it is.
-
-我写下和回复了了一些他们提交的问题，准确的说，我接受了一个FT的采访。紧接着他们没有完全发布，实际上他们发布了针对我说的话的错误描述。我在这里将提交那些问题准确的答案来让你们阅读。
 
 ### Debt, Inflation & the Fed
 

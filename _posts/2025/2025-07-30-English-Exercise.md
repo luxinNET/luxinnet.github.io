@@ -6,66 +6,146 @@ tags: [study, English-Exercise]
 comments: true
 ---
 
-### Exercise-1
+### 作文题型一：邀请信、请求信
 
-#### They Say Ireland’s the Best
+**开头**
 
-Ireland is the best place in the world to live in for 2005, according to a life quality ranking that appeared in Britain’s Economist magazine 1ast week.
+I am writing this letter to sincerely invite you to take part in [活动名称] that we are going to hold[时间].
 
-根据上周《英国经济学人》杂志的生活质量排名，爱尔兰被评为2005年世界上最适合居住的地方。
+I am really hoping that you can do me a favor and help me with [活动名称], and I would be extremely grateful if you can.
 
-The ambitious attempt to compare happiness levels around the world is based on the principle that wealth is not the only measure of human satisfaction and well-being．
+**中间**
 
-这个有野心的尝试比较全球各地的幸福感基于一个原则：财富不是衡量人类满足感和幸福感的唯一方式。
+The activity is going to start at [时间] at [地点],and there will be lots of interesting things for us to do there.
 
-The index of 111 countries uses data on incomes，health，unemployment，climate，political stability, job security, gender equality as well as what the magazine calls“freedom，family and community life”．
+It would be such a great honor for all of us if you could come and join us,because you are always the who [带来积极的影响]
 
-这个指数涵盖了111个国家的收入、健康、失业率、气候、政治稳定、工作保障、性别平等以及这个杂志所称的“自由、家庭和社区生活”的数据。
+We all believe that your coming will make this activity much more wonderful and memmorable for everyone.
 
-Despite the bad weather, troubled health service，traffic congestion (拥挤)，gender inequality, and the high cost of living．Ireland scored an impressive 8.33 points out of 10．
+We are all looking forward to sharing this happy time with you and creating some beautiful memories together.
 
-因为有坏天气，艰难的医疗服务，交通拥堵，性别平等问题和高生活消费。爱尔兰上升了8.33分出了前十
+**结尾**
 
-That put it well ahead of second - place Switzerland，which managed 8.07．Zimbabwe, troubled by political insecurity and hunger，is rated the gloomiest (最差的)，picking up only 3. 89points.
+We are really looking forward to receiving your positive and hoping that you can come.
 
-“Although rising incomes and increased individual choices are highly valued，”the report said,“some of the factors associated with modernization such as the breakdown (崩溃) in traditional institutions and family values in part take away from a positive impact．”
+We sincerely hope to see you there and have a great time together.
 
-“Ireland wins because it successfully combines the most desirable elements of the new with the preservation of certain warm elements of the old，such as stable family and community 1ife.”
+### 作文题型二：投诉信
 
-The magazine admitted measuring quality of life is not a straightforward thing to do, and that its findings would have their critics.
+**开头**
 
-No.2 on the list is Switzerland．The other nations in the top 10 are Norway，Luxembourg，Sweden，Australia，Iceland，Italy，Denmark and Spain．
+I am writing this letter to tell you about my dissatisfaction with the [商品/服务名称] that I [购买/体验等动作] from your store [时间].
 
-The UK is positioned at No.29，a much lower position chiefly because of the social and family breakdown recorded in official statistics．The US, which has the second highest per capita GDP (人均国内生产总值) after Luxembourg，took the 13th place in the survey．China was in the lower half of the league at 60th．
+I feel like I have to make a complaint about the bad service I received when I was [具体场景] in your shop [时间].
 
-#### Rare Fossil Record
+**中间**
 
-The preservation of embryos and juveniles is a rare occurrence in the fossil record. The tiny, delicate skeletons are usually scattered by scavengers or destroyed by weathering before they can be fossilized. Ichthyosaurs had a higher chance of being preserved than did terrestrial creatures because, as marine animals, they tended to live in environments less subject to erosion. Still, their fossilization required a suite of factors: a slow rate of decay of soft tissues, little scavenging by other animals, a lack of swift currents and waves to jumble and carry away small bones, and fairly rapid burial. Given these factors, some areas have become a treasury of well - preserved ichthyosaur fossils.
+The problem happened when I [具体问题发生的场景],and it did't work at all as it was supposed to.
 
-The deposits at Holzmaden, Germany, present an interesting case for analysis. The ichthyosaur remains are found in black, bituminous marine shales deposited about 190 million years ago. Over the years, thousands of specimens of marine reptiles, fish and invertebrates have been recovered from these rocks. The quality of preservation is outstanding, but what is even more impressive is the number of ichthyosaur fossils containing preserved embryos. Ichthyosaurs with embryos have been reported from 6 different levels of the shale in a small area around Holzmaden, suggesting that a specific site was used by large numbers of ichthyosaurs repeatedly over time. The embryos are quite advanced in their physical development; their paddles, for example, are already well formed. One specimen is even preserved in the birth canal. In addition, the shale contains the remains of many newborns that are between 20 and 30 inches long.
+This has casued me a lot of trouble and inconvenience, and I have to spend extra time and money to [结局问题的方式].
 
-Why are there so many pregnant females and young at Holzmaden when they are so rare elsewhere? The quality of preservation is almost unmatched and quarry operations have been carried out carefully with an awareness of the value of the fossils. But these factors do not account for the interesting question of how there came to be such a concentration of pregnant ichthyosaurs in a particular place very close to their time of giving birth.
+I really hope that you can take quick action to solve this problem and give me a good solution like [期望的结局方案].
 
-#### Alaska
+I think it's reasonable for you to give a satisfactory answer and make up for the trouble you have caused by [补偿方式].
 
-In 1858 Americans welcomed Alaska into the Union as the 49th state， symbolizing a change of attitude that held in 1867，when the peninsula was purchased from Russia. Then， most Americans had little interest in 1，500，000 square kilometers “of icebergs and polar bear“-beyond Canada’s western borders， far from the settled areas of the United States.
+**结尾**
 
-In those sections of the state which lie above the Arctic Circle， Alaska still is a land of icebergs and polar bear. Ice buried in the earth，which is permanently frozen to a depth of 90 or more meters. From early May until early August，the midnight sun never sets on this flat， treeless region， but the sun cannot melt the icy soil more than two - thirds of a meter down.
+I trust you will handle this matter in a proper way and makes things right.
 
-Alaska is America’s largest state， but only about 325，000 people live there. According to estimates， 800，000 hectares of its land area are fit for plowing but only about 640，000 hectares are being cultivated.
+Thank you very much for paying attention to this problem and I'm waiting for your reply.
 
-Arctic Alaska has been the home of Eskimos for countless centuries. It is believed that the Eskimos moved there from Mongolia or Siberia， probably crossing Bering Strait，named for Vitus Bering，the Danish sea captain who discovered Alaska on his voyage for Russia in 1741. The Eskimos are the state’s earliest known inhabitants.
+### 作文题型三：道歉信
 
-Russian fur traders established settlements but， by the time Alaska was sold to the United States， most of the traders had departed.
+**开头**
 
-In 1896 gold was discovered near the Klondike River in Canada just across the Alaskan border. Thousand of Americans rushed to the region on their way to Klondike；some never returned. Alaska was never completely cut off again， although even today transportation is a major problem. There are only two motor routes from the U.S mainland， and within the state， every town has its own airfield. Planes fly passengers，mail and freight to the most distant villages.
+I am writing this letter to say sorry to you for [具体错误行为] that made you unhappy [时间].
 
-The gold that changed life so suddenly for Alaska was soon ended， and although many stories about mining camps have become part of American literature， the gold from Alaskan earth contributed less to economic progress than the fish from Alaska waters. The fish caught in a single year range in value from $80 million to $ 90 million. Fur - bearing animals are plentiful in the forests and streams.
+I am truly sorry for not keeping my promise to [承诺具体内容] and letting you down.
 
-#### 作文
+**中间**
 
-In our growth, we are always accompanied by the love from parents and relatives. However, when this love exceeds a certain limit, it turns into spoiling which can be destructive.
+I know that my mistake has brought you a lot of trouble and madde you feel [对方的感受].
 
-As shown in the picture, parents are doing everything for their child, even carrying the child's schoolbag and controlling every aspect of the child's life. This kind of over - protection deprives children of the opportunity to develop independence. They can't learn to solve problems on their own and become overly dependent on their parents.
+I should have been more careful and thought about your feelings, but I did't do that when I [错误发生时的行为].
 
-In my opinion, parents should give children appropriate space and let them experience difficulties and challenges. Only in this way can children grow up to be independent and responsible individuals.
+Please accept my most sincere apology for my careless behavior.
+
+I promise that I will be more responsible and this kind of thing will not happen again when [发生场景].
+
+**结尾**
+
+I really hope that you can find it in your heart to forgive me.
+
+I am looking forward to your understanding and hoping that we can still be [关系描述，如good friends].
+
+### 作文题型四：“观点选择 + 理由阐述” 类
+
+**开头**
+
+When we talk about which one is better between [选项A] and [选项B], I definitely think [选择的选项] is a much better choice.
+
+As for me, if I have to choose between [选项A] and [选项B],I would say [选择的选项] is more fun.
+
+**中间**
+
+First of all, [选择的选项] can make us feel more [感受描述], and we don't have to wrong about [问题描述] easily.
+
+Second, when we [选择选项的相关行为], we can easily [优势行为描述], which is very convenient.
+
+Another reason is that [选择的选项] has [特色描述] that we can't get from [另一选项],and that makes [相关行为] more enjoyable.
+
+What's more, [选择的选项] can help us [优势结果描述] better and we won't be disturbed by [干扰因素描述].
+
+**结尾**
+
+In conclusion, after thinking about all these reasons, I still strongly believe that [选择的选项] is the best choice.
+
+All in all, considering all the good points,[选择的选项] is definitely more suitable for me.
+
+### 作文题型：“问题 + 解决措施” 类
+
+**开头**
+
+Nowdays, the problem of [问题名称] in [范围描述] has become really serious and it's affecting people's lives a lot.
+
+The issue of [问题名称] is a big problem that we need to find ways to solve.
+
+**中间**
+
+First, [问题名称] is ver bad for people's health, especially for [特定人群], as it can cause many kinds of diseases.
+
+Second, [问题名称] not only [问题带来的影响], but also [问题带来的影响2].
+
+To solve the problem of [问题名称], we can ask more people to [措施1] instead of [原有不当行为].
+
+What's more, the goverment should make rules to [措施2] and encourage people to [措施3].
+
+**结尾**
+
+If every one of us takes action to [行动方向] and follow the rules,[问题改善后的结果] in the future.
+
+Only by doing these things can we successfully deal with the problem of [问题名称] and make [相关范围] a better place to live in.
+
+### 作文题型：“现象描述 + 个人看法” 类
+
+**开头**
+
+Recently, the phenomenon of [现象描述] has become very common in our daily life.
+
+Nowdays, more and more people like to [现象相关行为] in their free time.
+
+**中间**
+
+One obvious thing is that [现象具体表现], even when they are [场景描述].
+
+For example, when we are [场景描述],most people are [现象相关行为] instead of [对比行为].
+
+In my opinion, [现象相关行为] too much is not a good thing because it can make us less interested in [不良影响行为].
+
+However, [现象相关行为] can also bring us some benefits,like helping us [积极影响1] and [积极影响2].
+
+**结尾**
+
+In short, we should [现象相关行为] in a proper way and not let them take up too much of our time.
+
+From my point of view, this phenomenon of [现象相关行为] a lot will continue to exist, but we need to be aware of its good and bad sides.
