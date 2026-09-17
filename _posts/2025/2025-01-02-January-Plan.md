@@ -1,8 +1,8 @@
 ---
 title: "January Plan"
 date: 2025-01-02
-categories: [计划]
-tags: [january, plan]
+categories: ["Plan"]
+tags: ["January", "Plan"]
 comments: true
 ---
 

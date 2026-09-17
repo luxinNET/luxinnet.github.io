@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《FluentPython2ndEdition》-第三部分——discard
-category: Read Notes
-tags: [FluentPython2ndEdition, Pythonic]
+title: "《FluentPython2ndEdition》-第三部分——discard"
+date: 2024-12-22
+categories: ["Reading Notes"]
+tags: ["Fluent PYTHON 2nd Edition", "PYTHON"]
 comments: true
 ---
 

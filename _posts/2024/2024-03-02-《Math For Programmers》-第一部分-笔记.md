@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Math for Programmers》笔记-第一部分 向量和图形
-category: Read Notes
-tags: [Math for Programmers]
+title: "《Math for Programmers》笔记-第一部分 向量和图形"
+date: 2024-03-02
+categories: ["Reading Notes"]
+tags: ["Math For Programmers"]
 comments: true
 ---
 

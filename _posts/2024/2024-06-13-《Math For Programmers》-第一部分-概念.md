@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Math for Programmers》笔记-第一部分 向量和图形——discard
-category: Read Notes
-tags: [Math for Programmers]
+title: "《Math for Programmers》笔记-第一部分 向量和图形——discard"
+date: 2024-06-13
+categories: ["Reading Notes"]
+tags: ["Math For Programmers"]
 comments: true
 ---
 

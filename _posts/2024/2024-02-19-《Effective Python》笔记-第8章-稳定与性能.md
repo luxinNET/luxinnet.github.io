@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第8章 稳定与性能
-category: Read Notes
-tags: [Effective Python]
+title: "《Effective Python》笔记-第8章 稳定与性能"
+date: 2024-02-19
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON"]
 comments: true
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
-title: What's Coming：The Changing Domestic and World Orders Under the Trump Administration
-category: Investment
-tags: [Ray Dalio, Trump Administration]
+title: "What's Coming：The Changing Domestic and World Orders Under the Trump Administration"
+date: 2024-12-10
+categories: ["Investment"]
+tags: ["Ray Dalio", "Trump Administration"]
 comments: true
 ---
 

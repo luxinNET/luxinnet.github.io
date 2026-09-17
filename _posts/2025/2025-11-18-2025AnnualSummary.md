@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 2025 Annual Summary
-category: Summary
-tags: [Annual Summary]
+title: "2025 Annual Summary"
+date: 2025-11-18
+categories: ["Summary"]
+tags: ["Annual Summary"]
 comments: true
 ---
 

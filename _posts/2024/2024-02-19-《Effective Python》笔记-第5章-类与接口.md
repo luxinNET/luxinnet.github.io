@@ -1,10 +1,9 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第5章 类与接口
-category: Read Notes
-tags: [Effective Python, Python class, Python interface, Python hook, Python namedtuple, Python callable, Python super]
+title: "《Effective Python》笔记-第5章 类与接口"
+date: 2024-02-19
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON", "PYTHON"]
 comments: true
-sidebar: []
 ---
 
 ## 第三十七条：用组合起来的类实现多层架构，不要用嵌套的内置类型

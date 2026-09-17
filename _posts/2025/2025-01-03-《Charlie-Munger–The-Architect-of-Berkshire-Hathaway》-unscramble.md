@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Charlie Munger – The Architect of Berkshire Hathaway
-description: "Charlie Munger – The Architect of Berkshire Hathaway"
-category: Investment
-tags: [BerkshireHathaway, Charles T. Munger, Warren E. Buffett]
+title: "Charlie Munger – The Architect of Berkshire Hathaway"
+date: 2025-01-03
+categories: ["Investment"]
+tags: ["Berkshire Hathaway", "Charlie Munger", "Warren Buffett"]
 comments: true
 ---
 

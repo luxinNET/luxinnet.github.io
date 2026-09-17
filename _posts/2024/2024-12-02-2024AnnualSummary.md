@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 2024 Annual Summary
-category: Summary
-tags: [Annual Summary]
+title: "2024 Annual Summary"
+date: 2024-12-02
+categories: ["Summary"]
+tags: ["Annual Summary"]
 comments: true
 ---
 

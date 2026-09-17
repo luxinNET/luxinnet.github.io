@@ -1,9 +1,8 @@
 ---
-layout: post
-title: study-flutter——discard
-description: flutter学习日记
-category: study
-tags: [study, flutter]
+title: "study-flutter——discard"
+date: 2024-11-18
+categories: ["Study"]
+tags: ["Study", "Flutter"]
 comments: true
 ---
 

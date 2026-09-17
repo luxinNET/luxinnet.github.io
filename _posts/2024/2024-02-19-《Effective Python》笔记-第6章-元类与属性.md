@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第6章 元类与属性
-category: Read Notes
-tags: [Effective Python, Python @property, Python WeakKeyDictionary]
+title: "《Effective Python》笔记-第6章 元类与属性"
+date: 2024-02-19
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON", "PYTHON"]
 comments: true
 ---
 

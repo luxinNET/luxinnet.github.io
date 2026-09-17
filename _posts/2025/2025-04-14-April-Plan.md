@@ -1,9 +1,8 @@
 ---
-layout: post
-title: 2025 April plan
-description: 四月份的整体计划
-category: Plan
-tags: [book]
+title: "2025 April plan"
+date: 2025-04-14
+categories: ["Plan"]
+tags: ["Book"]
 comments: true
 ---
 

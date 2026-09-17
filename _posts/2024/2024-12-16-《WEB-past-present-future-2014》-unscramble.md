@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Berkshire – Past, Present and Future
-description: "WEB past present future 2014"
-category: Investment
-tags: [BerkshireHathaway, Warren E. Buffett]
+title: "Berkshire – Past, Present and Future"
+date: 2024-12-16
+categories: ["Investment"]
+tags: ["Berkshire Hathaway", "Warren Buffett"]
 comments: true
 ---
 

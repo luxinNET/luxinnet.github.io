@@ -1,9 +1,8 @@
 ---
-layout: post
-title: 2024 April plan
-description: 四月份的整体计划，按照周划分
-category: Plan
-tags: [book]
+title: "2024 April plan"
+date: 2024-02-18
+categories: ["Plan"]
+tags: ["Book"]
 comments: true
 ---
 

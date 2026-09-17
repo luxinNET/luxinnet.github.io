@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Vice Chairman’s Thoughts – Past and Future
-description: "CTM past present future 2014"
-category: Investment
-tags: [BerkshireHathaway, Charles T. Munger]
+title: "Vice Chairman’s Thoughts – Past and Future"
+date: 2025-01-02
+categories: ["Investment"]
+tags: ["Berkshire Hathaway", "Charlie Munger"]
 comments: true
 ---
 

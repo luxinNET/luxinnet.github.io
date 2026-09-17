@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Investment Logs
-description: 投资日志
-category: Investment
-tags: [log, study]
+title: "Investment Logs"
+date: 2026-06-24
+categories: ["Investment"]
+tags: ["Log", "Study"]
 comments: true
 ---
 
@@ -22,3 +21,6 @@ comments: true
 然而，事实并非我所想，在我减仓后一周内药明成交量放大，公司宣布回购，开始了上行趋势，而我不死心仍然觉得这是“无用的自救”。如果这时候迷途知返可能还能挽回不少损失，当然这是后话了。
 
 总结下来自己这几个月犯的最大错误是：过度自信、从众心理、损失厌恶、混沌心理。
+
+### M8-W3-1
+

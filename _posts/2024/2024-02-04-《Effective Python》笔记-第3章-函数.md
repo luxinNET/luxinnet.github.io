@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第3章 函数
-category: Read Notes
-tags: [Effective Python, Python fuc]
+title: "《Effective Python》笔记-第3章 函数"
+date: 2024-02-04
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON", "PYTHON"]
 comments: true
 ---
 

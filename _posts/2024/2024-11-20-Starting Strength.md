@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Starting Strength——to do
-category: Exercise Notes
-tags: [Mark Rippetoe, Strength lifts the foundation]
+title: "Starting Strength——to do"
+date: 2024-11-20
+categories: ["Exercise Notes"]
+tags: ["Mark Rippetoe", "Strength Training"]
 comments: true
 ---
 

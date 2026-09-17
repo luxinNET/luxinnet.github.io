@@ -1,8 +1,8 @@
 ---
-layout: post
-title: English-Exercise
-category: English
-tags: [study, English-Exercise]
+title: "English-Exercise"
+date: 2025-07-30
+categories: ["English"]
+tags: ["Study", "English Study"]
 comments: true
 ---
 

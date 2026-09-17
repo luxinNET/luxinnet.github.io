@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Records of securities transactions——discard
-category: Investment
-tags: [securities transactions]
+title: "Records of securities transactions——discard"
+date: 2024-12-12
+categories: ["Investment"]
+tags: ["Securities Transactions"]
 comments: true
 ---
 

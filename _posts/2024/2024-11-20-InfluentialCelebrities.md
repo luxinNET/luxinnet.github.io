@@ -1,8 +1,8 @@
 ---
-layout: post
-title: Influential Celebrities
-category: List
-tags: [Elon Must, Mark Rippetoe, 徐霞客, Trump, Munger, Franklin, Dalio, 李大霄, Buffett, 李光耀, Volcker, Ramaswamy, 段永平]
+title: "Influential Celebrities"
+date: 2024-11-20
+categories: ["List"]
+tags: ["Elon Musk", "Mark Rippetoe", "Xu Xiake", "Donald Trump", "Charlie Munger", "Benjamin Franklin", "Ray Dalio", "Li Daxiao", "Warren Buffett", "Lee Kuan Yew", "Paul Volcker", "Vivek Ramaswamy", "Duan Yongping"]
 comments: true
 ---
 

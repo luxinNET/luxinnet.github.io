@@ -1,11 +1,10 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第10章 协作开发
-category: Read Notes
-tags: [Effective Python]
+title: "《Effective Python》笔记-第10章 协作开发"
+date: 2024-02-27
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON"]
 comments: true
 ---
-
 
 ## 第八十二条：学会寻找由其他Python开发者所构建的模块
 

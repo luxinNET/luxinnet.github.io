@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第4章 推导与生成
-category: Read Notes
-tags: [Effective Python, Python comprehension]
+title: "《Effective Python》笔记-第4章 推导与生成"
+date: 2024-02-19
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON", "PYTHON"]
 comments: true
 ---
 

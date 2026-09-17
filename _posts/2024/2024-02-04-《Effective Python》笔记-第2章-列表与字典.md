@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第2章 列表与字典
-category: Read Notes
-tags: [Effective Python, Python list, Python dic]
+title: "《Effective Python》笔记-第2章 列表与字典"
+date: 2024-02-04
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON", "PYTHON"]
 comments: true
 ---
 

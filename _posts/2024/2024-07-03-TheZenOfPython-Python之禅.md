@@ -1,8 +1,8 @@
 ---
-layout: post
-title: The Zen of Python————Python之禅
-category: Read Notes
-tags: [TheZenOfPython, Pythonic]
+title: "The Zen of Python————Python之禅"
+date: 2024-07-03
+categories: ["Reading Notes"]
+tags: ["PYTHON"]
 comments: true
 ---
 

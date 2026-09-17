@@ -1,11 +1,10 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第9章 测试与调试
-category: Read Notes
-tags: [Effective Python]
+title: "《Effective Python》笔记-第9章 测试与调试"
+date: 2024-02-27
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON"]
 comments: true
 ---
-
 
 ## 第七十五条：通过repr字符串输出调试信息
 

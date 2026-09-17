@@ -1,9 +1,8 @@
 ---
-layout: post
-title: Investment Logs
-description: 投资日志
-category: Investment
-tags: [log, study]
+title: "Investment Logs"
+date: 2025-06-12
+categories: ["Investment"]
+tags: ["Log", "Study"]
 comments: true
 ---
 

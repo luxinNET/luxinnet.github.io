@@ -1,9 +1,8 @@
 ---
-layout: post
-title: 2024 March plan
-description: 三月份的整体计划，按照周划分
-category: Plan
-tags: [book,study English, exercise, algorithm]
+title: "2024 March plan"
+date: 2024-02-18
+categories: ["Plan"]
+tags: ["Book", "English Study", "Exercise", "Algorithm"]
 comments: true
 ---
 

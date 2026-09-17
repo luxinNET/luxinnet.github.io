@@ -1,8 +1,8 @@
 ---
-layout: post
-title: All Weather
-category: Investment
-tags: [All Weather, Ray Dalio, Bridgewater]
+title: "All Weather"
+date: 2025-04-21
+categories: ["Investment"]
+tags: ["All Weather Strategy", "Ray Dalio", "Bridgewater Associates"]
 comments: true
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《FluentPython2ndEdition》-第一部分
-category: Read Notes
-tags: [FluentPython2ndEdition, Pythonic]
+title: "《FluentPython2ndEdition》-第一部分"
+date: 2024-08-07
+categories: ["Reading Notes"]
+tags: ["Fluent PYTHON 2nd Edition", "PYTHON"]
 comments: true
 ---
 

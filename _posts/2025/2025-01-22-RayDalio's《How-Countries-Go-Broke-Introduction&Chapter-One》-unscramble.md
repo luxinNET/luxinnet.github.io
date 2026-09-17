@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "How Countries Go Broke: Introduction & Chapter One"
-category: Investment
-tags: [Ray Dalio, book]
+date: 2025-01-22
+categories: ["Investment"]
+tags: ["Ray Dalio", "Book"]
 comments: true
 ---
 

@@ -1,9 +1,8 @@
 ---
-layout: post
-title: 2024 November plan
-description: 十一月份的整体计划
-category: Plan
-tags: [book]
+title: "2024 November plan"
+date: 2024-10-31
+categories: ["Plan"]
+tags: ["Book"]
 comments: true
 ---
 

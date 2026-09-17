@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Math for Programmers》笔记-第一部分 向量和图形-练习
-category: Read Exercises
-tags: [Math for Programmers]
+title: "《Math for Programmers》笔记-第一部分 向量和图形-练习"
+date: 2024-04-07
+categories: ["Reading Exercises"]
+tags: ["Math For Programmers"]
 comments: true
 ---
 

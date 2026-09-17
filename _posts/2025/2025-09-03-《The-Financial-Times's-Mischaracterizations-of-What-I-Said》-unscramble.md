@@ -1,8 +1,8 @@
 ---
-layout: post
 title: "The Financial Times's Mischaracterizations of What I Said"
-category: Investment
-tags: [Ray Dalio, book]
+date: 2025-09-03
+categories: ["Investment"]
+tags: ["Ray Dalio", "Book"]
 comments: true
 ---
 

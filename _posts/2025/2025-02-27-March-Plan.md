@@ -1,9 +1,8 @@
 ---
-layout: post
-title: 2025 March plan
-description: 三月份的整体计划
-category: Plan
-tags: [book]
+title: "2025 March plan"
+date: 2025-02-27
+categories: ["Plan"]
+tags: ["Book"]
 comments: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: "Annual Plan"
 date: 2024-02-01
-categories: [计划]
-tags: [annual, plan]
+categories: ["Plan"]
+tags: ["Annual", "Plan"]
 comments: true
 ---
 

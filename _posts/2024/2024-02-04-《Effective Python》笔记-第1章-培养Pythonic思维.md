@@ -1,8 +1,8 @@
 ---
-layout: post
-title: 《Effective Python》笔记-第1章 培养Pythonic思维
-category: Read Notes
-tags: [Effective Python, Pythonic]
+title: "《Effective Python》笔记-第1章 培养Pythonic思维"
+date: 2024-02-04
+categories: ["Reading Notes"]
+tags: ["Effective PYTHON", "PYTHON"]
 comments: true
 ---
 
