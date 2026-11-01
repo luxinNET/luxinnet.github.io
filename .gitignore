@@ -19,3 +19,7 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+# Private docs (never publish)
+_posts/2026/2026-10-26-求职作战计划.md
+code/result.json
